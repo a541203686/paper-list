@@ -6,5 +6,5 @@ Total papers: **40**
 
 - [2026-04](Latent_Space_LLM/2026-04.md) (40 papers)
 
-<p align=right>(<a href=index.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>back to main</a>)</p>
 

@@ -6,5 +6,5 @@ Total papers: **69**
 
 - [2026-04](Neural_Rendering/2026-04.md) (69 papers)
 
-<p align=right>(<a href=index.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>back to main</a>)</p>
 

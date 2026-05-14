@@ -91,14 +91,16 @@ def run_monthly(config_path: str):
 
     # Render markdown once at the end
     if publish_readme:
-        json_to_md(json_readme_path, md_readme_path, task='Update Readme',
-                   to_web=False, show_badge=show_badge, selected_topics=changed_readme_topics)
+        json_to_md(json_readme_path, 'README_EN.md', task='Update Readme EN',
+                   to_web=False, show_badge=show_badge, selected_topics=changed_readme_topics, lang='en')
+        json_to_md(json_readme_path, 'README.md', task='Update Readme ZH',
+                   to_web=False, show_badge=show_badge, selected_topics=changed_readme_topics, lang='zh')
     if publish_gitpage:
         json_to_md(json_gitpage_path, md_gitpage_path, task='Update GitPage',
-                   to_web=True, show_badge=show_badge, use_tc=True, use_b2t=False, split_to_docs=True, selected_topics=changed_gitpage_topics)
+                   to_web=True, show_badge=show_badge, use_tc=True, use_b2t=False, split_to_docs=True, selected_topics=changed_gitpage_topics, lang='zh')
     if publish_wechat and json_wechat_path and md_wechat_path:
         json_to_md(json_wechat_path, md_wechat_path, task='Update Wechat',
-                   to_web=False, use_title=False, show_badge=show_badge, selected_topics=changed_wechat_topics)
+                   to_web=False, use_title=False, show_badge=show_badge, selected_topics=changed_wechat_topics, lang='zh')
 
 
 if __name__ == "__main__":

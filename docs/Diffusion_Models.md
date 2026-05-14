@@ -6,5 +6,5 @@ Total papers: **166**
 
 - [2026-04](Diffusion_Models/2026-04.md) (166 papers)
 
-<p align=right>(<a href=index.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>back to main</a>)</p>
 

@@ -65,8 +65,10 @@ def run(**config):
             # update json data
             changed_readme_topics = update_json_file(json_file, data_collector)
         # json data to markdown
-        json_to_md(json_file, md_file, task='Update Readme',
-                   show_badge=show_badge, split_to_docs=True, selected_topics=changed_readme_topics)
+        json_to_md(json_file, 'README_EN.md', task='Update Readme (EN)',
+                   show_badge=show_badge, split_to_docs=True, selected_topics=changed_readme_topics, lang='en')
+        json_to_md(json_file, 'README.md', task='Update Readme (ZH)',
+                   show_badge=show_badge, split_to_docs=True, selected_topics=changed_readme_topics, lang='zh')
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -86,7 +88,7 @@ def run(**config):
             changed_gitpage_topics = changed_readme_topics
         json_to_md(json_file, md_file, task='Update GitPage',
                    to_web=True, show_badge=show_badge,
-                   use_tc=True, use_b2t=False, split_to_docs=True, selected_topics=changed_gitpage_topics)
+                   use_tc=True, use_b2t=False, split_to_docs=True, selected_topics=changed_gitpage_topics, lang='zh')
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -101,7 +103,7 @@ def run(**config):
             )
         else:
             changed_wechat_topics = update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task='Update Wechat', to_web=False, use_title=False, show_badge=show_badge)
+        json_to_md(json_file, md_file, task='Update Wechat', to_web=False, use_title=False, show_badge=show_badge, lang='zh')
 
 
 if __name__ == "__main__":

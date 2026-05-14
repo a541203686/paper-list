@@ -31,5 +31,5 @@ Total papers: **3605**
 - [2024-03](Graph_Neural_Networks/2024-03.md) (171 papers)
 - [2024-02](Graph_Neural_Networks/2024-02.md) (19 papers)
 
-<p align=right>(<a href=index.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>back to main</a>)</p>
 

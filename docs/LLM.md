@@ -32,5 +32,5 @@ Total papers: **8598**
 - [2024-03](LLM/2024-03.md) (193 papers)
 - [2024-02](LLM/2024-02.md) (20 papers)
 
-<p align=right>(<a href=index.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>back to main</a>)</p>
 

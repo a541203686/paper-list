@@ -25,10 +25,12 @@ def json_to_md(filename, md_filename,
                show_badge=True,
                use_b2t=True,
                split_to_docs=False,
-               selected_topics=None):
+               selected_topics=None,
+               lang='en'):
     """
     @param filename: str
     @param md_filename: str
+    @param lang: 'en' or 'zh'
     @return None
     """
 
@@ -84,20 +86,34 @@ def json_to_md(filename, md_filename,
             f.write("![img](https://hits.dwyl.com/isLinXu/paper-list.svg)")
 
         if use_title == True:
-            f.write('<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY'
-                     '</ins><br>Automatically Update Papers Daily in list</h1></p>\n')
-            f.write("## Updated on " + DateNow + "\n")
+            if lang == 'zh':
+                f.write('<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY'
+                         '</ins><br>每日自动更新的论文列表</h1></p>\n')
+                f.write("## 最后更新于 " + DateNow + "\n")
+            else:
+                f.write('<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY'
+                         '</ins><br>Automatically Update Papers Daily in list</h1></p>\n')
+                f.write("## Updated on " + DateNow + "\n")
         else:
-            f.write("> Updated on " + DateNow + "\n")
+            if lang == 'zh':
+                f.write("> 最后更新于 " + DateNow + "\n")
+            else:
+                f.write("> Updated on " + DateNow + "\n")
 
         f.write(f"\n")
         f.write("![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)")
         
         # Add Introduction
-        f.write("\n\n## Introduction\n\n")
-        f.write("This repository provides a daily-updated list of computer vision papers from arXiv, organized by topic. ")
-        f.write("The updates are automated using GitHub Actions to ensure you stay current with the latest research.\n\n")
-        f.write("Online documentation: [https://islinxu.github.io/paper-list/](https://islinxu.github.io/paper-list/)\n\n")
+        if lang == 'zh':
+            f.write("\n\n## 项目简介\n\n")
+            f.write("本仓库提供每日更新的 arXiv 计算机视觉及人工智能领域论文列表，并按主题进行分类整理。")
+            f.write("每日更新由 GitHub Actions 自动化执行，帮助您及时掌握前沿研究动态。\n\n")
+            f.write("在线文档：[https://islinxu.github.io/paper-list/](https://islinxu.github.io/paper-list/)\n\n")
+        else:
+            f.write("\n\n## Introduction\n\n")
+            f.write("This repository provides a daily-updated list of computer vision papers from arXiv, organized by topic. ")
+            f.write("The updates are automated using GitHub Actions to ensure you stay current with the latest research.\n\n")
+            f.write("Online documentation: [https://islinxu.github.io/paper-list/](https://islinxu.github.io/paper-list/)\n\n")
 
         # Add Analytics入口（静态图 + 交互页）
         if to_web:
@@ -107,8 +123,13 @@ def json_to_md(filename, md_filename,
             analytics_href = "docs/analytics/"
             charts_prefix = "docs/analytics/charts/"
 
-        f.write("## Analytics\n\n")
-        f.write(f"- Dashboard: [{analytics_href}]({analytics_href})\n")
+        if lang == 'zh':
+            f.write("## 数据分析\n\n")
+            f.write(f"- 数据面板：[{analytics_href}]({analytics_href})\n")
+        else:
+            f.write("## Analytics\n\n")
+            f.write(f"- Dashboard: [{analytics_href}]({analytics_href})\n")
+
         f.write("\n")
         f.write(f"![trend_daily]({charts_prefix}trend_daily.png)\n\n")
         f.write(f"![topic_rank]({charts_prefix}topic_rank.png)\n\n")
@@ -116,30 +137,55 @@ def json_to_md(filename, md_filename,
         f.write(f"![top_authors]({charts_prefix}top_authors.png)\n\n")
         
         # Add Usage Instructions
-        f.write("## Usage\n\n")
-        f.write("To generate the paper list locally, follow these steps:\n\n")
-        f.write("1. **Install Dependencies**\n")
-        f.write("   ```bash\n")
-        f.write("   pip install -r requirements.txt\n")
-        f.write("   ```\n\n")
-        f.write("2. **Run the Script**\n")
-        f.write("   ```bash\n")
-        f.write("   python get_paper.py\n")
-        f.write("   ```\n\n")
-        f.write("3. **Configuration**\n")
-        f.write("   You can customize the search keywords and other settings in `config.yaml`.\n\n")
-        
-        # Add Advanced Usage
-        f.write("### Advanced Usage\n\n")
-        f.write("You can also use the scripts in the `scripts/` directory for additional tasks:\n\n")
-        f.write("- **Count Papers in Range**: Count the number of papers within a specific date range.\n")
-        f.write("  ```bash\n")
-        f.write("  python scripts/count_range.py 2024-01-01 2024-12-31\n")
-        f.write("  ```\n\n")
+        if lang == 'zh':
+            f.write("## 使用方法\n\n")
+            f.write("若要在本地生成论文列表，请执行以下步骤：\n\n")
+            f.write("1. **安装依赖**\n")
+            f.write("   ```bash\n")
+            f.write("   pip install -r requirements.txt\n")
+            f.write("   ```\n\n")
+            f.write("2. **运行脚本**\n")
+            f.write("   ```bash\n")
+            f.write("   python get_paper.py\n")
+            f.write("   ```\n\n")
+            f.write("3. **自定义配置**\n")
+            f.write("   您可以在 `config.yaml` 中自定义搜索关键词及其他设置。\n\n")
+            
+            # Add Advanced Usage
+            f.write("### 进阶用法\n\n")
+            f.write("您还可以使用 `scripts/` 目录下的脚本执行附加任务：\n\n")
+            f.write("- **统计特定日期范围内的论文数量**：\n")
+            f.write("  ```bash\n")
+            f.write("  python scripts/count_range.py 2024-01-01 2024-12-31\n")
+            f.write("  ```\n\n")
+            
+            if use_tc == True:
+                f.write("## 论文列表\n\n")
+        else:
+            f.write("## Usage\n\n")
+            f.write("To generate the paper list locally, follow these steps:\n\n")
+            f.write("1. **Install Dependencies**\n")
+            f.write("   ```bash\n")
+            f.write("   pip install -r requirements.txt\n")
+            f.write("   ```\n\n")
+            f.write("2. **Run the Script**\n")
+            f.write("   ```bash\n")
+            f.write("   python get_paper.py\n")
+            f.write("   ```\n\n")
+            f.write("3. **Configuration**\n")
+            f.write("   You can customize the search keywords and other settings in `config.yaml`.\n\n")
+            
+            # Add Advanced Usage
+            f.write("### Advanced Usage\n\n")
+            f.write("You can also use the scripts in the `scripts/` directory for additional tasks:\n\n")
+            f.write("- **Count Papers in Range**: Count the number of papers within a specific date range.\n")
+            f.write("  ```bash\n")
+            f.write("  python scripts/count_range.py 2024-01-01 2024-12-31\n")
+            f.write("  ```\n\n")
 
-        # Add: table of contents
-        if use_tc == True:
-            f.write("## Paper List\n\n")
+            # Add: table of contents
+            if use_tc == True:
+                f.write("## Paper List\n\n")
             # f.write("<details>\n")
             # f.write("  <summary>Table of Contents</summary>\n")
             f.write("  <ol>\n")
@@ -184,9 +230,15 @@ def json_to_md(filename, md_filename,
                                 month_sub.write(f"## {keyword} - {month}\n\n")
                                 if use_title == True:
                                     if to_web == False:
-                                        month_sub.write("|Publish Date|Title|Authors|PDF|Translate|Read|Code|\n" + "|---|---|---|---|---|---|---|\n")
+                                        if lang == 'zh':
+                                            month_sub.write("|发布日期|标题|作者|PDF|翻译|阅读|代码|\n" + "|---|---|---|---|---|---|---|\n")
+                                        else:
+                                            month_sub.write("|Publish Date|Title|Authors|PDF|Translate|Read|Code|\n" + "|---|---|---|---|---|---|---|\n")
                                     else:
-                                        month_sub.write("| Publish Date | Title | Authors | PDF | Translate | Read | Code |\n")
+                                        if lang == 'zh':
+                                            month_sub.write("| 发布日期 | 标题 | 作者 | PDF | 翻译 | 阅读 | 代码 |\n")
+                                        else:
+                                            month_sub.write("| Publish Date | Title | Authors | PDF | Translate | Read | Code |\n")
                                         month_sub.write("|:---------|:-----------------------|:---------|:------|:------|:------|:------|\n")
 
                                 for _, v in sort_papers(month_items).items():
@@ -204,9 +256,15 @@ def json_to_md(filename, md_filename,
 
                 if use_title == True:
                     if to_web == False:
-                        f.write("|Publish Date|Title|Authors|PDF|Translate|Read|Code|\n" + "|---|---|---|---|---|---|---|\n")
+                        if lang == 'zh':
+                            f.write("|发布日期|标题|作者|PDF|翻译|阅读|代码|\n" + "|---|---|---|---|---|---|---|\n")
+                        else:
+                            f.write("|Publish Date|Title|Authors|PDF|Translate|Read|Code|\n" + "|---|---|---|---|---|---|---|\n")
                     else:
-                        f.write("| Publish Date | Title | Authors | PDF | Translate | Read | Code |\n")
+                        if lang == 'zh':
+                            f.write("| 发布日期 | 标题 | 作者 | PDF | 翻译 | 阅读 | 代码 |\n")
+                        else:
+                            f.write("| Publish Date | Title | Authors | PDF | Translate | Read | Code |\n")
                         f.write("|:---------|:-----------------------|:---------|:------|:------|:------|:------|\n")
 
                 # sort papers by date
@@ -221,8 +279,13 @@ def json_to_md(filename, md_filename,
 
                 # Add: back to top
                 if use_b2t:
-                    top_info = f"#Updated on {DateNow}"
-                    top_info = top_info.replace(' ', '-').replace('.', '')
-                    f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
+                    if lang == 'zh':
+                        top_info = f"#最后更新于-{DateNow}"
+                        top_info = top_info.replace(' ', '-').replace('.', '')
+                        f.write(f"<p align=right>(<a href={top_info.lower()}>返回顶部</a>)</p>\n\n")
+                    else:
+                        top_info = f"#Updated on {DateNow}"
+                        top_info = top_info.replace(' ', '-').replace('.', '')
+                        f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
 
     logging.info(f"{task} finished")
