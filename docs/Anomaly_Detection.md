@@ -1,8 +1,8 @@
-## Anomaly Detection
+## 异常检测 (Anomaly Detection)
 
-Total papers: **2900**
+总论文数: **2900**
 
-## Monthly Archives
+## 月度归档
 
 - [2026-04](Anomaly_Detection/2026-04.md) (33 papers)
 - [2026-03](Anomaly_Detection/2026-03.md) (171 papers)
@@ -32,5 +32,5 @@ Total papers: **2900**
 - [2024-03](Anomaly_Detection/2024-03.md) (111 papers)
 - [2024-02](Anomaly_Detection/2024-02.md) (16 papers)
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>返回主页</a>)</p>
 

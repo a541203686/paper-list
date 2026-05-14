@@ -1,8 +1,8 @@
-## Object Detection
+## 目标检测 (Object Detection)
 
-Total papers: **3262**
+总论文数: **3262**
 
-## Monthly Archives
+## 月度归档
 
 - [2026-04](Object_Detection/2026-04.md) (80 papers)
 - [2026-03](Object_Detection/2026-03.md) (148 papers)
@@ -31,5 +31,5 @@ Total papers: **3262**
 - [2024-03](Object_Detection/2024-03.md) (164 papers)
 - [2024-02](Object_Detection/2024-02.md) (20 papers)
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>返回主页</a>)</p>
 

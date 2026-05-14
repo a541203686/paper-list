@@ -1,8 +1,8 @@
-## Graph Neural Networks
+## 图神经网络 (Graph Neural Networks)
 
-Total papers: **3605**
+总论文数: **3605**
 
-## Monthly Archives
+## 月度归档
 
 - [2026-04](Graph_Neural_Networks/2026-04.md) (33 papers)
 - [2026-03](Graph_Neural_Networks/2026-03.md) (167 papers)
@@ -31,5 +31,5 @@ Total papers: **3605**
 - [2024-03](Graph_Neural_Networks/2024-03.md) (171 papers)
 - [2024-02](Graph_Neural_Networks/2024-02.md) (19 papers)
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>返回主页</a>)</p>
 

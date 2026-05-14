@@ -1,8 +1,8 @@
-## Classification
+## 分类任务 (Classification)
 
-Total papers: **3317**
+总论文数: **3317**
 
-## Monthly Archives
+## 月度归档
 
 - [2026-04](Classification/2026-04.md) (68 papers)
 - [2026-03](Classification/2026-03.md) (123 papers)
@@ -32,5 +32,5 @@ Total papers: **3317**
 - [2024-03](Classification/2024-03.md) (147 papers)
 - [2024-02](Classification/2024-02.md) (18 papers)
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>返回主页</a>)</p>
 

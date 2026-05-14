@@ -1,8 +1,8 @@
-## Audio Processing
+## 音频处理 (Audio Processing)
 
-Total papers: **2250**
+总论文数: **2250**
 
-## Monthly Archives
+## 月度归档
 
 - [2026-04](Audio_Processing/2026-04.md) (15 papers)
 - [2026-03](Audio_Processing/2026-03.md) (118 papers)
@@ -31,5 +31,5 @@ Total papers: **2250**
 - [2024-03](Audio_Processing/2024-03.md) (72 papers)
 - [2024-02](Audio_Processing/2024-02.md) (14 papers)
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>返回主页</a>)</p>
 

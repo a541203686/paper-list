@@ -1,8 +1,8 @@
-## Multimodal
+## 多模态学习 (Multimodal)
 
-Total papers: **949**
+总论文数: **949**
 
-## Monthly Archives
+## 月度归档
 
 - [2026-04](Multimodal/2026-04.md) (7 papers)
 - [2026-03](Multimodal/2026-03.md) (54 papers)
@@ -32,5 +32,5 @@ Total papers: **949**
 - [2024-03](Multimodal/2024-03.md) (23 papers)
 - [2024-02](Multimodal/2024-02.md) (13 papers)
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>返回主页</a>)</p>
 

@@ -1,8 +1,8 @@
-## Image Generation
+## 图像生成 (Image Generation)
 
-Total papers: **4396**
+总论文数: **4396**
 
-## Monthly Archives
+## 月度归档
 
 - [2026-04](Image_Generation/2026-04.md) (169 papers)
 - [2026-03](Image_Generation/2026-03.md) (288 papers)
@@ -32,5 +32,5 @@ Total papers: **4396**
 - [2024-03](Image_Generation/2024-03.md) (180 papers)
 - [2024-02](Image_Generation/2024-02.md) (20 papers)
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>返回主页</a>)</p>
 

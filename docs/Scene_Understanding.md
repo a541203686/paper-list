@@ -1,8 +1,8 @@
-## Scene Understanding
+## 场景理解 (Scene Understanding)
 
-Total papers: **1423**
+总论文数: **1423**
 
-## Monthly Archives
+## 月度归档
 
 - [2026-04](Scene_Understanding/2026-04.md) (52 papers)
 - [2026-03](Scene_Understanding/2026-03.md) (87 papers)
@@ -32,5 +32,5 @@ Total papers: **1423**
 - [2024-03](Scene_Understanding/2024-03.md) (53 papers)
 - [2024-02](Scene_Understanding/2024-02.md) (14 papers)
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>返回主页</a>)</p>
 

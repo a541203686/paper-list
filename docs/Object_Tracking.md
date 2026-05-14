@@ -1,8 +1,8 @@
-## Object Tracking
+## 目标跟踪 (Object Tracking)
 
-Total papers: **877**
+总论文数: **877**
 
-## Monthly Archives
+## 月度归档
 
 - [2026-04](Object_Tracking/2026-04.md) (72 papers)
 - [2026-03](Object_Tracking/2026-03.md) (26 papers)
@@ -32,5 +32,5 @@ Total papers: **877**
 - [2024-03](Object_Tracking/2024-03.md) (40 papers)
 - [2024-02](Object_Tracking/2024-02.md) (10 papers)
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>返回主页</a>)</p>
 

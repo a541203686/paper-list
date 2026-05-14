@@ -1,8 +1,8 @@
-## LLM
+## 大型语言模型 (LLM)
 
-Total papers: **8598**
+总论文数: **8598**
 
-## Monthly Archives
+## 月度归档
 
 - [2026-04](LLM/2026-04.md) (551 papers)
 - [2026-03](LLM/2026-03.md) (1108 papers)
@@ -32,5 +32,5 @@ Total papers: **8598**
 - [2024-03](LLM/2024-03.md) (193 papers)
 - [2024-02](LLM/2024-02.md) (20 papers)
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>返回主页</a>)</p>
 

@@ -1,10 +1,10 @@
-## Video Understanding
+## 视频生成与理解 (Video Understanding)
 
-Total papers: **118**
+总论文数: **118**
 
-## Monthly Archives
+## 月度归档
 
 - [2026-04](Video_Understanding/2026-04.md) (118 papers)
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>返回主页</a>)</p>
 

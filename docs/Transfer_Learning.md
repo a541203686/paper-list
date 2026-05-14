@@ -1,8 +1,8 @@
-## Transfer Learning
+## 迁移学习 (Transfer Learning)
 
-Total papers: **6359**
+总论文数: **6359**
 
-## Monthly Archives
+## 月度归档
 
 - [2026-04](Transfer_Learning/2026-04.md) (255 papers)
 - [2026-03](Transfer_Learning/2026-03.md) (966 papers)
@@ -31,5 +31,5 @@ Total papers: **6359**
 - [2024-03](Transfer_Learning/2024-03.md) (168 papers)
 - [2024-02](Transfer_Learning/2024-02.md) (14 papers)
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>返回主页</a>)</p>
 

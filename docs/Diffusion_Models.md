@@ -1,10 +1,10 @@
-## Diffusion Models
+## 扩散模型 (Diffusion Models)
 
-Total papers: **166**
+总论文数: **166**
 
-## Monthly Archives
+## 月度归档
 
 - [2026-04](Diffusion_Models/2026-04.md) (166 papers)
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>返回主页</a>)</p>
 

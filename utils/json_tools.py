@@ -4,6 +4,41 @@ import re
 import os
 from collections import defaultdict
 
+TOPIC_TRANSLATIONS = {
+    "Classification": "分类任务",
+    "Object Detection": "目标检测",
+    "Semantic Segmentation": "语义分割",
+    "Object Tracking": "目标跟踪",
+    "Action Recognition": "动作识别",
+    "Pose Estimation": "姿态估计",
+    "Depth Estimation": "深度估计",
+    "Scene Understanding": "场景理解",
+    "Optical Flow": "光流估计",
+    "Image Generation": "图像生成",
+    "Diffusion Models": "扩散模型",
+    "Video Understanding": "视频生成与理解",
+    "Neural Rendering": "神经渲染",
+    "LLM": "大型语言模型",
+    "Multimodal": "多模态学习",
+    "AI Agent": "AI智能体",
+    "Reasoning": "思维链与推理",
+    "World Models": "世界模型",
+    "3D Vision": "3D视觉",
+    "Autonomous Driving": "自动驾驶",
+    "Robotics": "机器人学",
+    "AI for Science": "AI for Science",
+    "AI Safety": "AI安全与对齐",
+    "Efficient AI": "高效AI与模型压缩",
+    "Audio Processing": "音频处理",
+    "Graph Neural Networks": "图神经网络",
+    "Time Series & Anomaly": "时序预测与异常检测",
+    "Transfer Learning": "迁移学习",
+    "Reinforcement Learning": "强化学习",
+    "Anomaly Detection": "异常检测",
+    "Embodied AI": "具身智能",
+    "Latent Space LLM": "潜空间与语言模型"
+}
+
 from .paper_links import ensure_paper_record, render_paper_row
 from .storage import load_paper_store
 
@@ -51,6 +86,13 @@ def json_to_md(filename, md_filename,
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-', '.')
+
+    def get_topic_display_name(kw: str, language: str) -> str:
+        if language == 'zh':
+            zh_name = TOPIC_TRANSLATIONS.get(kw, kw)
+            if zh_name != kw:
+                return f"{zh_name} ({kw})"
+        return kw
 
     data = load_paper_store(filename)
     selected_topics = set(selected_topics or [])
@@ -199,13 +241,14 @@ def json_to_md(filename, md_filename,
                 day_content = data[keyword]
                 if not day_content:
                     continue
+                display_keyword = get_topic_display_name(keyword, lang)
                 if split_to_docs:
                     kw = keyword.replace(' ', '_')
                     href = f"{kw}.md" if to_web else f"docs/{kw}.md"
-                    f.write(f"    <li><a href={href}>{keyword}</a></li>\n")
+                    f.write(f"    <li><a href={href}>{display_keyword}</a></li>\n")
                 else:
-                    kw = keyword.replace(' ', '-')
-                    f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
+                    anchor = display_keyword.replace(' ', '-').replace('(', '').replace(')', '').lower()
+                    f.write(f"    <li><a href=#{anchor}>{display_keyword}</a></li>\n")
             f.write("  </ol>\n")
             # f.write("</details>\n\n")
 
@@ -218,13 +261,18 @@ def json_to_md(filename, md_filename,
                 if not os.path.exists('docs'):
                     os.makedirs('docs')
                 kw = keyword.replace(' ', '_')
+                display_keyword = get_topic_display_name(keyword, lang)
                 if (not selected_topics) or (keyword in selected_topics):
                     with open(f"docs/{kw}.md", "w+") as f_sub:
-                        f_sub.write(f"## {keyword}\n\n")
+                        f_sub.write(f"## {display_keyword}\n\n")
                         grouped = group_papers_by_month(day_content)
                         total_papers = sum(len(month_items) for month_items in grouped.values())
-                        f_sub.write(f"Total papers: **{total_papers}**\n\n")
-                        f_sub.write("## Monthly Archives\n\n")
+                        if lang == 'zh':
+                            f_sub.write(f"总论文数: **{total_papers}**\n\n")
+                            f_sub.write("## 月度归档\n\n")
+                        else:
+                            f_sub.write(f"Total papers: **{total_papers}**\n\n")
+                            f_sub.write("## Monthly Archives\n\n")
                         for month, month_items in sorted(grouped.items(), reverse=True):
                             month_dir = os.path.join("docs", kw)
                             os.makedirs(month_dir, exist_ok=True)
@@ -233,7 +281,7 @@ def json_to_md(filename, md_filename,
                             f_sub.write(f"- [{month}]({month_href}) ({len(month_items)} papers)\n")
 
                             with open(month_file, "w+") as month_sub:
-                                month_sub.write(f"## {keyword} - {month}\n\n")
+                                month_sub.write(f"## {display_keyword} - {month}\n\n")
                                 if use_title == True:
                                     if to_web == False:
                                         if lang == 'zh':
@@ -252,13 +300,20 @@ def json_to_md(filename, md_filename,
                                         line = render_paper_row(v, emphasize=False) if isinstance(v, dict) else str(v)
                                         month_sub.write(pretty_math(line))
 
-                                month_sub.write(f"\n<p align=right>(<a href=../{kw}.md>back to {keyword}</a>)</p>\n\n")
+                                if lang == 'zh':
+                                    month_sub.write(f"\n<p align=right>(<a href=../{kw}.md>返回 {display_keyword}</a>)</p>\n\n")
+                                else:
+                                    month_sub.write(f"\n<p align=right>(<a href=../{kw}.md>back to {display_keyword}</a>)</p>\n\n")
 
                         back_target = "index.md" if to_web else "../README.md"
-                        f_sub.write(f"\n<p align=right>(<a href={back_target}>back to main</a>)</p>\n\n")
+                        if lang == 'zh':
+                            f_sub.write(f"\n<p align=right>(<a href={back_target}>返回主页</a>)</p>\n\n")
+                        else:
+                            f_sub.write(f"\n<p align=right>(<a href={back_target}>back to main</a>)</p>\n\n")
             else:
                 # the head of each part
-                f.write(f"## {keyword}\n\n")
+                display_keyword = get_topic_display_name(keyword, lang)
+                f.write(f"## {display_keyword}\n\n")
 
                 if use_title == True:
                     if to_web == False:

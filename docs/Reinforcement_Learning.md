@@ -1,8 +1,8 @@
-## Reinforcement Learning
+## 强化学习 (Reinforcement Learning)
 
-Total papers: **6141**
+总论文数: **6141**
 
-## Monthly Archives
+## 月度归档
 
 - [2026-04](Reinforcement_Learning/2026-04.md) (185 papers)
 - [2026-03](Reinforcement_Learning/2026-03.md) (919 papers)
@@ -31,5 +31,5 @@ Total papers: **6141**
 - [2024-03](Reinforcement_Learning/2024-03.md) (191 papers)
 - [2024-02](Reinforcement_Learning/2024-02.md) (20 papers)
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>返回主页</a>)</p>
 

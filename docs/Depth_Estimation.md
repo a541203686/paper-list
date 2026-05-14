@@ -1,8 +1,8 @@
-## Depth Estimation
+## 深度估计 (Depth Estimation)
 
-Total papers: **1190**
+总论文数: **1190**
 
-## Monthly Archives
+## 月度归档
 
 - [2026-04](Depth_Estimation/2026-04.md) (37 papers)
 - [2026-03](Depth_Estimation/2026-03.md) (53 papers)
@@ -32,5 +32,5 @@ Total papers: **1190**
 - [2024-03](Depth_Estimation/2024-03.md) (58 papers)
 - [2024-02](Depth_Estimation/2024-02.md) (11 papers)
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=../README.md>返回主页</a>)</p>
 
