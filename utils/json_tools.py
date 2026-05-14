@@ -131,10 +131,16 @@ def json_to_md(filename, md_filename,
             f.write(f"- Dashboard: [{analytics_href}]({analytics_href})\n")
 
         f.write("\n")
-        f.write(f"![trend_daily]({charts_prefix}trend_daily.png)\n\n")
-        f.write(f"![topic_rank]({charts_prefix}topic_rank.png)\n\n")
-        f.write(f"![code_coverage]({charts_prefix}code_coverage_trend.png)\n\n")
-        f.write(f"![top_authors]({charts_prefix}top_authors.png)\n\n")
+        if lang == 'zh':
+            f.write(f"![trend_daily]({charts_prefix}trend_daily_zh.png)\n\n")
+            f.write(f"![topic_rank]({charts_prefix}topic_rank_zh.png)\n\n")
+            f.write(f"![code_coverage]({charts_prefix}code_coverage_trend_zh.png)\n\n")
+            f.write(f"![top_authors]({charts_prefix}top_authors_zh.png)\n\n")
+        else:
+            f.write(f"![trend_daily]({charts_prefix}trend_daily.png)\n\n")
+            f.write(f"![topic_rank]({charts_prefix}topic_rank.png)\n\n")
+            f.write(f"![code_coverage]({charts_prefix}code_coverage_trend.png)\n\n")
+            f.write(f"![top_authors]({charts_prefix}top_authors.png)\n\n")
         
         # Add Usage Instructions
         if lang == 'zh':

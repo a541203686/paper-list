@@ -136,6 +136,7 @@ def main() -> None:
         write_csv_rows(out_data / f"top_authors_{name}.csv", authors, ["author", "count", "rank"])
 
     # charts: choose a default window for static images
+    # English charts
     render_trend_chart(
         daily_counts,
         out_charts / "trend_daily.png",
@@ -180,6 +181,51 @@ def main() -> None:
         x_key="topic",
         y_key="code_coverage",
         top_n=20,
+    )
+
+    # Chinese charts
+    render_trend_chart(
+        daily_counts,
+        out_charts / "trend_daily_zh.png",
+        title="每日论文趋势 (热门方向)",
+        max_topics=10,
+        x_label="日期",
+        y_label="论文数量",
+    )
+    render_trend_chart(
+        monthly_counts,
+        out_charts / "trend_monthly_zh.png",
+        title="每月论文趋势 (热门方向)",
+        max_topics=10,
+        x_label="日期",
+        y_label="论文数量",
+    )
+    render_bar_rank(
+        aggregate_topic_rank(store, start_date=windows["last_90d"][0], end_date=windows["last_90d"][1], top_n=20),
+        out_charts / "topic_rank_zh.png",
+        title="热门方向排行 (近 90 天)",
+        x_key="topic",
+        y_key="count",
+        top_n=20,
+        x_label="论文数量",
+    )
+    render_bar_rank(
+        aggregate_top_first_authors(store, start_date=windows["last_90d"][0], end_date=windows["last_90d"][1], top_n=20),
+        out_charts / "top_authors_zh.png",
+        title="高产第一作者排行 (近 90 天)",
+        x_key="author",
+        y_key="count",
+        top_n=20,
+        x_label="论文数量",
+    )
+    render_bar_rank(
+        [{"topic": r.get("topic"), "code_coverage": r.get("code_coverage")} for r in latest_cov],
+        out_charts / "code_coverage_trend_zh.png",
+        title=f"各方向代码开源率 ({latest_month})",
+        x_key="topic",
+        y_key="code_coverage",
+        top_n=20,
+        x_label="代码开源率",
     )
 
     print(f"[analytics] store={args.store} topics={len(topics)} date_range={min_date}..{max_date}")

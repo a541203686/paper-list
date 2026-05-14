@@ -13,7 +13,7 @@ def _ensure_parent(path: Path) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
 
 
-def render_trend_chart(rows: list[dict[str, Any]], out_path: Path, title: str, max_topics: int = 10) -> None:
+def render_trend_chart(rows: list[dict[str, Any]], out_path: Path, title: str, max_topics: int = 10, x_label: str = "date", y_label: str = "count") -> None:
     """
     Render multi-line trend chart for top topics and save to PNG.
 
@@ -26,6 +26,10 @@ def render_trend_chart(rows: list[dict[str, Any]], out_path: Path, title: str, m
     matplotlib.use("Agg")  # headless rendering
     import matplotlib.pyplot as plt
     import datetime as dt
+    
+    # Configure Chinese font support
+    plt.rcParams['font.sans-serif'] = ['Arial Unicode MS', 'SimHei', 'Noto Sans CJK SC', 'WenQuanYi Micro Hei', 'sans-serif']
+    plt.rcParams['axes.unicode_minus'] = False
 
     # topic -> [(date, count)]
     series: dict[str, list[tuple[str, int]]] = defaultdict(list)
@@ -63,8 +67,8 @@ def render_trend_chart(rows: list[dict[str, Any]], out_path: Path, title: str, m
         plt.plot(xs, ys, linewidth=1.8, label=t)
 
     plt.title(title)
-    plt.xlabel("date")
-    plt.ylabel("count")
+    plt.xlabel(x_label)
+    plt.ylabel(y_label)
     plt.xticks(rotation=45, ha="right")
     plt.legend(loc="upper left", fontsize=8, ncol=2)
     plt.tight_layout()
@@ -79,6 +83,7 @@ def render_bar_rank(
     x_key: str,
     y_key: str,
     top_n: int = 20,
+    x_label: str = None,
 ) -> None:
     """
     Render horizontal bar chart for ranking lists.
@@ -91,6 +96,10 @@ def render_bar_rank(
 
     matplotlib.use("Agg")
     import matplotlib.pyplot as plt
+    
+    # Configure Chinese font support
+    plt.rcParams['font.sans-serif'] = ['Arial Unicode MS', 'SimHei', 'Noto Sans CJK SC', 'WenQuanYi Micro Hei', 'sans-serif']
+    plt.rcParams['axes.unicode_minus'] = False
 
     rows = list(rows or [])[: int(top_n or 0)]
     labels = [str(r.get(x_key, "")) for r in rows][::-1]
@@ -100,7 +109,7 @@ def render_bar_rank(
     plt.figure(figsize=(10, 7))
     plt.barh(labels, values)
     plt.title(title)
-    plt.xlabel(y_key)
+    plt.xlabel(x_label if x_label else y_key)
     plt.tight_layout()
     plt.savefig(out_path, dpi=180)
     plt.close()

@@ -13,13 +13,13 @@
 
 - 数据面板：[docs/analytics/](docs/analytics/)
 
-![trend_daily](docs/analytics/charts/trend_daily.png)
+![trend_daily](docs/analytics/charts/trend_daily_zh.png)
 
-![topic_rank](docs/analytics/charts/topic_rank.png)
+![topic_rank](docs/analytics/charts/topic_rank_zh.png)
 
-![code_coverage](docs/analytics/charts/code_coverage_trend.png)
+![code_coverage](docs/analytics/charts/code_coverage_trend_zh.png)
 
-![top_authors](docs/analytics/charts/top_authors.png)
+![top_authors](docs/analytics/charts/top_authors_zh.png)
 
 ## 使用方法
 
