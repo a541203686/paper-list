@@ -19,8 +19,6 @@ Online documentation: [https://islinxu.github.io/paper-list/](https://islinxu.gi
 
 ![code_coverage](docs/analytics/charts/code_coverage_trend.png)
 
-![top_authors](docs/analytics/charts/top_authors.png)
-
 ## Usage
 
 To generate the paper list locally, follow these steps:

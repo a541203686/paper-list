@@ -171,3 +171,32 @@ def aggregate_topic_rank(
     rows = [{"topic": t, "count": int(c), "rank": i + 1} for i, (t, c) in enumerate(counter.most_common(top_n))]
     return rows
 
+
+def aggregate_code_coverage_range(
+    store: dict[str, dict[str, Any]],
+    start_date: str,
+    end_date: str,
+) -> list[dict[str, Any]]:
+    totals: Counter[str] = Counter()
+    covered: Counter[str] = Counter()
+    for topic, _, record in _iter_records(store):
+        if not _in_range(record["date"], start_date, end_date):
+            continue
+        totals[topic] += 1
+        if record.get("code_url"):
+            covered[topic] += 1
+
+    rows: list[dict[str, Any]] = []
+    for topic, total in totals.items():
+        c = covered.get(topic, 0)
+        rows.append(
+            {
+                "topic": topic,
+                "total": int(total),
+                "code_covered": int(c),
+                "code_coverage": round(c / total, 4) if total else None,
+            }
+        )
+    rows.sort(key=lambda r: float(r["code_coverage"] or 0), reverse=True)
+    return rows
+

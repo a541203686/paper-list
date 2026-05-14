@@ -19,8 +19,6 @@
 
 ![code_coverage](docs/analytics/charts/code_coverage_trend_zh.png)
 
-![top_authors](docs/analytics/charts/top_authors_zh.png)
-
 ## 使用方法
 
 若要在本地生成论文列表，请执行以下步骤：

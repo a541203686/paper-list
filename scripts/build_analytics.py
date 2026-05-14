@@ -16,6 +16,7 @@ if str(PROJECT_ROOT) not in sys.path:
 from utils.analytics.aggregate import (  # noqa: E402
     aggregate_code_coverage_daily,
     aggregate_code_coverage_monthly,
+    aggregate_code_coverage_range,
     aggregate_daily_counts,
     aggregate_monthly_counts,
     aggregate_topic_rank,
@@ -124,6 +125,7 @@ def main() -> None:
     windows: dict[str, tuple[str, str]] = {
         "last_30d": _range_last_days(max_date, 30),
         "last_90d": _range_last_days(max_date, 90),
+        "last_180d": _range_last_days(max_date, 180),
         "last_12m": _range_last_months(max_date, 12),
         "ytd": _range_ytd(max_date),
     }
@@ -157,27 +159,13 @@ def main() -> None:
         y_key="count",
         top_n=20,
     )
-    render_bar_rank(
-        aggregate_top_first_authors(store, start_date=windows["last_90d"][0], end_date=windows["last_90d"][1], top_n=20),
-        out_charts / "top_authors.png",
-        title="Top First Authors (Last 90 Days)",
-        x_key="author",
-        y_key="count",
-        top_n=20,
-    )
 
-    # coverage trend: reuse bar rendering on the latest month (simple & stable)
-    latest_month = str(max_date)[:7]
-    latest_cov = [
-        r
-        for r in (cov_monthly or [])
-        if isinstance(r, dict) and r.get("date") == latest_month and r.get("code_coverage") is not None
-    ]
-    latest_cov.sort(key=lambda r: float(r.get("code_coverage") or 0.0), reverse=True)
+    # coverage trend: code coverage over last 180 days
+    latest_cov = aggregate_code_coverage_range(store, start_date=windows["last_180d"][0], end_date=windows["last_180d"][1])
     render_bar_rank(
         [{"topic": r.get("topic"), "code_coverage": r.get("code_coverage")} for r in latest_cov],
         out_charts / "code_coverage_trend.png",
-        title=f"Code Coverage by Topic ({latest_month})",
+        title="Code Coverage by Topic (Last 180 Days)",
         x_key="topic",
         y_key="code_coverage",
         top_n=20,
@@ -210,18 +198,9 @@ def main() -> None:
         x_label="论文数量",
     )
     render_bar_rank(
-        aggregate_top_first_authors(store, start_date=windows["last_90d"][0], end_date=windows["last_90d"][1], top_n=20),
-        out_charts / "top_authors_zh.png",
-        title="高产第一作者排行 (近 90 天)",
-        x_key="author",
-        y_key="count",
-        top_n=20,
-        x_label="论文数量",
-    )
-    render_bar_rank(
         [{"topic": r.get("topic"), "code_coverage": r.get("code_coverage")} for r in latest_cov],
         out_charts / "code_coverage_trend_zh.png",
-        title=f"各方向代码开源率 ({latest_month})",
+        title="各方向代码开源率 (近半年)",
         x_key="topic",
         y_key="code_coverage",
         top_n=20,
