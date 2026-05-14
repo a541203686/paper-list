@@ -61,10 +61,36 @@ def render_trend_chart(rows: list[dict[str, Any]], out_path: Path, title: str, m
             return dt.datetime.strptime(ds, "%Y-%m").date()
         return dt.date.fromisoformat(ds)
 
+    import numpy as np
+    from scipy.interpolate import make_interp_spline
+    import matplotlib.dates as mdates
+
     for t in topics:
-        xs = [_parse_date(d) for d, _ in series[t]]
+        raw_dates = [_parse_date(d) for d, _ in series[t]]
         ys = [c for _, c in series[t]]
-        plt.plot(xs, ys, linewidth=1.8, label=t)
+        
+        if len(raw_dates) > 3: # Need at least 4 points for cubic spline
+            # Convert dates to numbers for interpolation
+            x_nums = mdates.date2num(raw_dates)
+            
+            # Create a smooth x sequence
+            x_smooth_nums = np.linspace(x_nums.min(), x_nums.max(), 300)
+            
+            # Spline interpolation
+            spl = make_interp_spline(x_nums, ys, k=3)
+            y_smooth = spl(x_smooth_nums)
+            
+            # Convert back to dates for plotting
+            x_smooth_dates = mdates.num2date(x_smooth_nums)
+            
+            # Ensure no negative values after smoothing
+            y_smooth = np.maximum(y_smooth, 0)
+            
+            plt.plot(x_smooth_dates, y_smooth, linewidth=1.8, label=t)
+            # Optional: scatter original points to show real data
+            # plt.scatter(raw_dates, ys, s=10, alpha=0.5)
+        else:
+            plt.plot(raw_dates, ys, linewidth=1.8, label=t)
 
     plt.title(title)
     plt.xlabel(x_label)
