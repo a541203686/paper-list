@@ -25,6 +25,7 @@ def render_trend_chart(rows: list[dict[str, Any]], out_path: Path, title: str, m
 
     matplotlib.use("Agg")  # headless rendering
     import matplotlib.pyplot as plt
+    import datetime as dt
 
     # topic -> [(date, count)]
     series: dict[str, list[tuple[str, int]]] = defaultdict(list)
@@ -51,8 +52,13 @@ def render_trend_chart(rows: list[dict[str, Any]], out_path: Path, title: str, m
     _ensure_parent(out_path)
     plt.figure(figsize=(12, 5))
 
+    def _parse_date(ds: str):
+        if len(ds) == 7:
+            return dt.datetime.strptime(ds, "%Y-%m").date()
+        return dt.date.fromisoformat(ds)
+
     for t in topics:
-        xs = [d for d, _ in series[t]]
+        xs = [_parse_date(d) for d, _ in series[t]]
         ys = [c for _, c in series[t]]
         plt.plot(xs, ys, linewidth=1.8, label=t)
 
