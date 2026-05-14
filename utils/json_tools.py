@@ -186,6 +186,8 @@ def json_to_md(filename, md_filename,
             # Add: table of contents
             if use_tc == True:
                 f.write("## Paper List\n\n")
+
+        if use_tc == True:
             # f.write("<details>\n")
             # f.write("  <summary>Table of Contents</summary>\n")
             f.write("  <ol>\n")

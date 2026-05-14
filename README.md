@@ -49,3 +49,26 @@
 
 ## 论文列表
 
+  <ol>
+    <li><a href=docs/Classification.md>Classification</a></li>
+    <li><a href=docs/Object_Detection.md>Object Detection</a></li>
+    <li><a href=docs/Semantic_Segmentation.md>Semantic Segmentation</a></li>
+    <li><a href=docs/Object_Tracking.md>Object Tracking</a></li>
+    <li><a href=docs/Action_Recognition.md>Action Recognition</a></li>
+    <li><a href=docs/Pose_Estimation.md>Pose Estimation</a></li>
+    <li><a href=docs/Image_Generation.md>Image Generation</a></li>
+    <li><a href=docs/LLM.md>LLM</a></li>
+    <li><a href=docs/Scene_Understanding.md>Scene Understanding</a></li>
+    <li><a href=docs/Depth_Estimation.md>Depth Estimation</a></li>
+    <li><a href=docs/Audio_Processing.md>Audio Processing</a></li>
+    <li><a href=docs/Multimodal.md>Multimodal</a></li>
+    <li><a href=docs/Anomaly_Detection.md>Anomaly Detection</a></li>
+    <li><a href=docs/Transfer_Learning.md>Transfer Learning</a></li>
+    <li><a href=docs/Optical_Flow.md>Optical Flow</a></li>
+    <li><a href=docs/Reinforcement_Learning.md>Reinforcement Learning</a></li>
+    <li><a href=docs/Graph_Neural_Networks.md>Graph Neural Networks</a></li>
+    <li><a href=docs/Latent_Space_LLM.md>Latent Space LLM</a></li>
+    <li><a href=docs/Diffusion_Models.md>Diffusion Models</a></li>
+    <li><a href=docs/Video_Understanding.md>Video Understanding</a></li>
+    <li><a href=docs/Neural_Rendering.md>Neural Rendering</a></li>
+  </ol>
