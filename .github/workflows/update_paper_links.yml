@@ -18,8 +18,8 @@ permissions:
 
 env:
 
-  GITHUB_USER_NAME: isLinXu
-  GITHUB_USER_EMAIL: 2267379130@qq.com
+  GITHUB_USER_NAME: liamzzhuang
+  GITHUB_USER_EMAIL: github-actions[bot]@users.noreply.github.com
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
   
