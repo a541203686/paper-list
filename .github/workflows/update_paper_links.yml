@@ -63,7 +63,7 @@ jobs:
           git config user.name "${GITHUB_USER_NAME}"
           git config user.email "${GITHUB_USER_EMAIL}"
           # Stage README + entire docs tree (includes docs/data shards and analytics outputs)
-          git add README.md docs
+          git add README.md README_EN.md docs
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
