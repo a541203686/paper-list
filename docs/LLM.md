@@ -32,5 +32,5 @@
 - [2024-03](LLM/2024-03.md) (193 papers)
 - [2024-02](LLM/2024-02.md) (20 papers)
 
-<p align=right>(<a href=../README.md>返回主页</a>)</p>
+<p align=right>(<a href=index.md>返回主页</a>)</p>
 

@@ -32,5 +32,5 @@
 - [2024-03](Classification/2024-03.md) (147 papers)
 - [2024-02](Classification/2024-02.md) (18 papers)
 
-<p align=right>(<a href=../README.md>返回主页</a>)</p>
+<p align=right>(<a href=index.md>返回主页</a>)</p>
 

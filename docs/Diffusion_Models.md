@@ -6,5 +6,5 @@
 
 - [2026-04](Diffusion_Models/2026-04.md) (166 papers)
 
-<p align=right>(<a href=../README.md>返回主页</a>)</p>
+<p align=right>(<a href=index.md>返回主页</a>)</p>
 
