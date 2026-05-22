@@ -74,5 +74,6 @@ jobs:
             exit 0
           fi
           git commit -m "ci: build and commit analytics artifacts"
-          git pull --rebase origin main
+          # Use -X theirs to favor newly generated artifacts during rebase
+          git pull --rebase -X theirs origin main
           git push origin HEAD:main
