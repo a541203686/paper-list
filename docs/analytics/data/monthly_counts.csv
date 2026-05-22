@@ -187,6 +187,7 @@ Image Generation,2026-01,247
 Image Generation,2026-02,273
 Image Generation,2026-03,288
 Image Generation,2026-04,169
+Image Generation,2026-05,29
 LLM,2024-02,20
 LLM,2024-03,193
 LLM,2024-04,211
@@ -323,6 +324,7 @@ Optical Flow,2026-01,16
 Optical Flow,2026-02,12
 Optical Flow,2026-03,32
 Optical Flow,2026-04,18
+Optical Flow,2026-05,5
 Pose Estimation,2024-02,11
 Pose Estimation,2024-03,95
 Pose Estimation,2024-04,64
@@ -403,6 +405,7 @@ Scene Understanding,2026-01,39
 Scene Understanding,2026-02,8
 Scene Understanding,2026-03,87
 Scene Understanding,2026-04,52
+Scene Understanding,2026-05,13
 Semantic Segmentation,2024-02,14
 Semantic Segmentation,2024-03,132
 Semantic Segmentation,2024-04,141
