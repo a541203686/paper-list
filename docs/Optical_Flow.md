@@ -1,10 +1,10 @@
 ## 光流估计 (Optical Flow)
 
-总论文数: **840**
+总论文数: **838**
 
 ## 月度归档
 
-- [2026-05](Optical_Flow/2026-05.md) (5 papers)
+- [2026-05](Optical_Flow/2026-05.md) (3 papers)
 - [2026-04](Optical_Flow/2026-04.md) (18 papers)
 - [2026-03](Optical_Flow/2026-03.md) (32 papers)
 - [2026-02](Optical_Flow/2026-02.md) (12 papers)
