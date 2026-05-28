@@ -15435,11 +15435,6 @@
     "count": 1
   },
   {
-    "topic": "Depth Estimation",
-    "date": "2026-05-25",
-    "count": 1
-  },
-  {
     "topic": "Diffusion Models",
     "date": "2026-04-13",
     "count": 25
@@ -21123,16 +21118,6 @@
     "topic": "Image Generation",
     "date": "2026-04-30",
     "count": 3
-  },
-  {
-    "topic": "Image Generation",
-    "date": "2026-05-25",
-    "count": 14
-  },
-  {
-    "topic": "Image Generation",
-    "date": "2026-05-26",
-    "count": 13
   },
   {
     "topic": "LLM",
@@ -33625,11 +33610,6 @@
     "count": 1
   },
   {
-    "topic": "Optical Flow",
-    "date": "2026-05-25",
-    "count": 2
-  },
-  {
     "topic": "Pose Estimation",
     "date": "2024-02-25",
     "count": 1
@@ -42125,16 +42105,6 @@
     "count": 2
   },
   {
-    "topic": "Scene Understanding",
-    "date": "2026-05-25",
-    "count": 6
-  },
-  {
-    "topic": "Scene Understanding",
-    "date": "2026-05-26",
-    "count": 4
-  },
-  {
     "topic": "Semantic Segmentation",
     "date": "2024-02-27",
     "count": 3
@@ -48078,15 +48048,5 @@
     "topic": "Video Understanding",
     "date": "2026-04-30",
     "count": 10
-  },
-  {
-    "topic": "Video Understanding",
-    "date": "2026-05-25",
-    "count": 24
-  },
-  {
-    "topic": "Video Understanding",
-    "date": "2026-05-26",
-    "count": 14
   }
 ]
