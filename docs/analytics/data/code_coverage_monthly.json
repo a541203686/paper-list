@@ -1316,6 +1316,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Image Generation",
+    "date": "2026-05",
+    "total": 13,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "LLM",
     "date": "2024-02",
     "total": 20,
@@ -1704,6 +1711,13 @@
     "topic": "Neural Rendering",
     "date": "2026-04",
     "total": 69,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Neural Rendering",
+    "date": "2026-05",
+    "total": 13,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2264,6 +2278,13 @@
     "topic": "Optical Flow",
     "date": "2026-04",
     "total": 18,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2026-05",
+    "total": 1,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3188,6 +3209,13 @@
     "topic": "Video Understanding",
     "date": "2026-04",
     "total": 118,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-05",
+    "total": 18,
     "code_covered": 0,
     "code_coverage": 0.0
   }
