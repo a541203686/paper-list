@@ -187,7 +187,6 @@ Image Generation,2026-01,247
 Image Generation,2026-02,273
 Image Generation,2026-03,288
 Image Generation,2026-04,169
-Image Generation,2026-05,13
 LLM,2024-02,20
 LLM,2024-03,193
 LLM,2024-04,211
@@ -244,7 +243,6 @@ Multimodal,2026-02,8
 Multimodal,2026-03,54
 Multimodal,2026-04,7
 Neural Rendering,2026-04,69
-Neural Rendering,2026-05,13
 Object Detection,2024-02,20
 Object Detection,2024-03,164
 Object Detection,2024-04,141
@@ -325,7 +323,6 @@ Optical Flow,2026-01,16
 Optical Flow,2026-02,12
 Optical Flow,2026-03,32
 Optical Flow,2026-04,18
-Optical Flow,2026-05,1
 Pose Estimation,2024-02,11
 Pose Estimation,2024-03,95
 Pose Estimation,2024-04,64
@@ -458,4 +455,3 @@ Transfer Learning,2026-02,356
 Transfer Learning,2026-03,966
 Transfer Learning,2026-04,255
 Video Understanding,2026-04,118
-Video Understanding,2026-05,18

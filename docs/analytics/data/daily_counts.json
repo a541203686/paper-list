@@ -21120,11 +21120,6 @@
     "count": 3
   },
   {
-    "topic": "Image Generation",
-    "date": "2026-05-28",
-    "count": 13
-  },
-  {
     "topic": "LLM",
     "date": "2024-02-28",
     "count": 10
@@ -25748,11 +25743,6 @@
     "topic": "Neural Rendering",
     "date": "2026-04-30",
     "count": 9
-  },
-  {
-    "topic": "Neural Rendering",
-    "date": "2026-05-28",
-    "count": 13
   },
   {
     "topic": "Object Detection",
@@ -33617,11 +33607,6 @@
   {
     "topic": "Optical Flow",
     "date": "2026-04-30",
-    "count": 1
-  },
-  {
-    "topic": "Optical Flow",
-    "date": "2026-05-28",
     "count": 1
   },
   {
@@ -48063,10 +48048,5 @@
     "topic": "Video Understanding",
     "date": "2026-04-30",
     "count": 10
-  },
-  {
-    "topic": "Video Understanding",
-    "date": "2026-05-28",
-    "count": 18
   }
 ]
