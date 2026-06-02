@@ -13,9 +13,9 @@ Pose Estimation,225,11
 Scene Understanding,186,12
 Diffusion Models,166,13
 Depth Estimation,146,14
-Action Recognition,134,15
-Object Tracking,128,16
-Video Understanding,118,17
+Video Understanding,139,15
+Action Recognition,134,16
+Object Tracking,128,17
 Multimodal,109,18
 Optical Flow,78,19
 Neural Rendering,69,20

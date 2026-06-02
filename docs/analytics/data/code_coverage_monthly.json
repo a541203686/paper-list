@@ -3190,5 +3190,19 @@
     "total": 118,
     "code_covered": 0,
     "code_coverage": 0.0
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-05",
+    "total": 11,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-06",
+    "total": 10,
+    "code_covered": 0,
+    "code_coverage": 0.0
   }
 ]
