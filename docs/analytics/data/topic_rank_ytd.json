@@ -16,7 +16,7 @@
   },
   {
     "topic": "Image Generation",
-    "count": 977,
+    "count": 991,
     "rank": 4
   },
   {
@@ -55,13 +55,13 @@
     "rank": 11
   },
   {
-    "topic": "Scene Understanding",
-    "count": 186,
+    "topic": "Diffusion Models",
+    "count": 199,
     "rank": 12
   },
   {
-    "topic": "Diffusion Models",
-    "count": 166,
+    "topic": "Scene Understanding",
+    "count": 194,
     "rank": 13
   },
   {
@@ -75,13 +75,13 @@
     "rank": 15
   },
   {
-    "topic": "Object Tracking",
-    "count": 128,
+    "topic": "Video Understanding",
+    "count": 133,
     "rank": 16
   },
   {
-    "topic": "Video Understanding",
-    "count": 118,
+    "topic": "Object Tracking",
+    "count": 128,
     "rank": 17
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "topic": "Optical Flow",
-    "count": 78,
+    "count": 79,
     "rank": 19
   },
   {
     "topic": "Neural Rendering",
-    "count": 69,
+    "count": 70,
     "rank": 20
   }
 ]
