@@ -15485,11 +15485,6 @@
     "count": 15
   },
   {
-    "topic": "Diffusion Models",
-    "date": "2026-06-04",
-    "count": 33
-  },
-  {
     "topic": "Graph Neural Networks",
     "date": "2024-02-27",
     "count": 2
@@ -21125,11 +21120,6 @@
     "count": 3
   },
   {
-    "topic": "Image Generation",
-    "date": "2026-06-04",
-    "count": 14
-  },
-  {
     "topic": "LLM",
     "date": "2024-02-28",
     "count": 10
@@ -25753,11 +25743,6 @@
     "topic": "Neural Rendering",
     "date": "2026-04-30",
     "count": 9
-  },
-  {
-    "topic": "Neural Rendering",
-    "date": "2026-06-04",
-    "count": 1
   },
   {
     "topic": "Object Detection",
@@ -33622,11 +33607,6 @@
   {
     "topic": "Optical Flow",
     "date": "2026-04-30",
-    "count": 1
-  },
-  {
-    "topic": "Optical Flow",
-    "date": "2026-06-04",
     "count": 1
   },
   {
@@ -42125,11 +42105,6 @@
     "count": 2
   },
   {
-    "topic": "Scene Understanding",
-    "date": "2026-06-04",
-    "count": 8
-  },
-  {
     "topic": "Semantic Segmentation",
     "date": "2024-02-27",
     "count": 3
@@ -48073,10 +48048,5 @@
     "topic": "Video Understanding",
     "date": "2026-04-30",
     "count": 10
-  },
-  {
-    "topic": "Video Understanding",
-    "date": "2026-06-04",
-    "count": 15
   }
 ]
