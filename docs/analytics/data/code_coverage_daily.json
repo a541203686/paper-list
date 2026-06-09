@@ -29568,6 +29568,20 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Image Generation",
+    "date": "2026-06-07",
+    "total": 7,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2026-06-08",
+    "total": 7,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "LLM",
     "date": "2024-02-28",
     "total": 10,
@@ -36039,6 +36053,13 @@
     "topic": "Neural Rendering",
     "date": "2026-04-30",
     "total": 9,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Neural Rendering",
+    "date": "2026-06-08",
+    "total": 3,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -47050,6 +47071,13 @@
     "topic": "Optical Flow",
     "date": "2026-04-30",
     "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2026-06-08",
+    "total": 3,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -58947,6 +58975,20 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Scene Understanding",
+    "date": "2026-06-07",
+    "total": 3,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2026-06-08",
+    "total": 7,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Semantic Segmentation",
     "date": "2024-02-27",
     "total": 3,
@@ -67266,6 +67308,20 @@
     "topic": "Video Understanding",
     "date": "2026-04-30",
     "total": 10,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-06-07",
+    "total": 6,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-06-08",
+    "total": 13,
     "code_covered": 0,
     "code_coverage": 0.0
   }
