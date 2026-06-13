@@ -1,10 +1,10 @@
 ## 分类任务 (Classification)
 
-总论文数: **3322**
+总论文数: **3321**
 
 ## 月度归档
 
-- [2026-06](Classification/2026-06.md) (5 papers)
+- [2026-06](Classification/2026-06.md) (4 papers)
 - [2026-04](Classification/2026-04.md) (68 papers)
 - [2026-03](Classification/2026-03.md) (123 papers)
 - [2026-02](Classification/2026-02.md) (95 papers)
