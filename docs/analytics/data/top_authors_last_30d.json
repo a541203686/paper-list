@@ -1,101 +1,101 @@
 [
   {
+    "author": "Yuhan Chen",
+    "count": 5,
+    "rank": 1
+  },
+  {
     "author": "Yagmur Akarken",
     "count": 4,
-    "rank": 1
+    "rank": 2
   },
   {
     "author": "Gyutae Hwang",
     "count": 3,
-    "rank": 2
+    "rank": 3
   },
   {
     "author": "Xiang Gao",
     "count": 3,
-    "rank": 3
-  },
-  {
-    "author": "Yuhan Chen",
-    "count": 3,
     "rank": 4
   },
   {
-    "author": "Mao-Lin Luo",
+    "author": "Zihan Gu",
     "count": 2,
     "rank": 5
   },
   {
-    "author": "Yan Zhang",
+    "author": "Mao-Lin Luo",
     "count": 2,
     "rank": 6
   },
   {
-    "author": "Jihoon Hong",
+    "author": "Anna Meyer",
     "count": 2,
     "rank": 7
   },
   {
-    "author": "Thanh Nguyen Canh",
+    "author": "Yan Zhang",
     "count": 2,
     "rank": 8
   },
   {
-    "author": "Jingyu Li",
+    "author": "Jihoon Hong",
     "count": 2,
     "rank": 9
   },
   {
-    "author": "Robert Langendörfer",
+    "author": "Paul Julius Kühn",
     "count": 2,
     "rank": 10
   },
   {
-    "author": "Jie Li",
+    "author": "Dominic Ebner",
     "count": 2,
     "rank": 11
   },
   {
-    "author": "Renxi Cheng",
+    "author": "Thanh Nguyen Canh",
     "count": 2,
     "rank": 12
   },
   {
-    "author": "Marwan Farag",
+    "author": "Guo Pu",
     "count": 2,
     "rank": 13
   },
   {
-    "author": "Long-Bao Nguyen",
+    "author": "Hongchao Shu",
     "count": 2,
     "rank": 14
   },
   {
-    "author": "Siya Yang",
+    "author": "Robert Langendörfer",
     "count": 2,
     "rank": 15
   },
   {
-    "author": "Artyom Mazur",
+    "author": "Jinjie Shen",
     "count": 2,
     "rank": 16
   },
   {
-    "author": "Maonan Wang",
+    "author": "Rick Fritschek",
     "count": 2,
     "rank": 17
   },
   {
-    "author": "Cem Eteke",
+    "author": "Alicia Pirwass",
     "count": 2,
     "rank": 18
   },
   {
-    "author": "Chunlu Li",
+    "author": "Jie Li",
     "count": 2,
     "rank": 19
   },
   {
-    "author": "Feng Qiao",
+    "author": "Renxi Cheng",
     "count": 2,
     "rank": 20
   }
