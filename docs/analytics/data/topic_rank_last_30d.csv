@@ -1,14 +1,14 @@
 topic,count,rank
-Diffusion Models,48,1
-Video Understanding,26,2
-Image Generation,18,3
-Neural Rendering,18,4
-Object Tracking,15,5
-Semantic Segmentation,14,6
-Classification,12,7
-Scene Understanding,9,8
-Pose Estimation,8,9
-Object Detection,7,10
-Action Recognition,3,11
-Depth Estimation,3,12
-Optical Flow,2,13
+Diffusion Models,50,1
+Image Generation,17,2
+Video Understanding,17,3
+Neural Rendering,16,4
+Object Tracking,13,5
+Semantic Segmentation,11,6
+Classification,10,7
+Object Detection,7,8
+Pose Estimation,7,9
+Scene Understanding,6,10
+Action Recognition,2,11
+Depth Estimation,2,12
+Optical Flow,1,13
