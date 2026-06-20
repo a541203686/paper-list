@@ -5,97 +5,97 @@
     "rank": 1
   },
   {
-    "author": "Yuyang Zhang",
+    "author": "Shenjian Gong",
     "count": 3,
     "rank": 2
   },
   {
-    "author": "Shenjian Gong",
-    "count": 3,
-    "rank": 3
-  },
-  {
     "author": "Qian Liang",
     "count": 2,
-    "rank": 4
+    "rank": 3
   },
   {
     "author": "Myeongseok Nam",
     "count": 2,
-    "rank": 5
-  },
-  {
-    "author": "Jaeil Park",
-    "count": 2,
-    "rank": 6
+    "rank": 4
   },
   {
     "author": "Wenhao Chi",
     "count": 2,
-    "rank": 7
-  },
-  {
-    "author": "Yu Zhang",
-    "count": 2,
-    "rank": 8
+    "rank": 5
   },
   {
     "author": "Nicolas Dufour",
     "count": 2,
-    "rank": 9
+    "rank": 6
   },
   {
     "author": "Thomas Klassert",
     "count": 2,
-    "rank": 10
+    "rank": 7
   },
   {
     "author": "Juntian Huang",
     "count": 2,
-    "rank": 11
+    "rank": 8
   },
   {
     "author": "Kaili Wang",
     "count": 2,
-    "rank": 12
+    "rank": 9
   },
   {
     "author": "Haoxuan Wu",
     "count": 2,
-    "rank": 13
+    "rank": 10
   },
   {
     "author": "Meixi Li",
     "count": 2,
-    "rank": 14
+    "rank": 11
   },
   {
     "author": "Haengbok Chung",
     "count": 2,
-    "rank": 15
-  },
-  {
-    "author": "Tianyi Xiang",
-    "count": 2,
-    "rank": 16
-  },
-  {
-    "author": "Boran Sun",
-    "count": 2,
-    "rank": 17
-  },
-  {
-    "author": "Yuchen Rao",
-    "count": 2,
-    "rank": 18
-  },
-  {
-    "author": "Lin Zhang",
-    "count": 2,
-    "rank": 19
+    "rank": 12
   },
   {
     "author": "Kaihsun Yang",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "author": "Jiwoong Yang",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "author": "Jiechao Gao",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "author": "Abdullah Bin-Obaid",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "author": "Junhui Li",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "author": "Roberto Pellerito",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "author": "Duc T. Nguyen",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "author": "Edoardo Mello Rella",
     "count": 1,
     "rank": 20
   }
