@@ -16,7 +16,7 @@
   },
   {
     "topic": "Image Generation",
-    "count": 977,
+    "count": 982,
     "rank": 4
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "topic": "Object Detection",
-    "count": 430,
+    "count": 432,
     "rank": 7
   },
   {
     "topic": "Classification",
-    "count": 393,
+    "count": 394,
     "rank": 8
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "topic": "Pose Estimation",
-    "count": 225,
+    "count": 226,
     "rank": 11
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "topic": "Object Tracking",
-    "count": 128,
+    "count": 130,
     "rank": 16
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "topic": "Optical Flow",
-    "count": 78,
+    "count": 79,
     "rank": 19
   },
   {
