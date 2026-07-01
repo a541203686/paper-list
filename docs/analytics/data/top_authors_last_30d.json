@@ -1,57 +1,102 @@
 [
   {
-    "author": "Jiawei Xia",
-    "count": 2,
+    "author": "Brian Wei",
+    "count": 3,
     "rank": 1
   },
   {
-    "author": "Tigran Sedrakyan",
-    "count": 1,
+    "author": "Yannan Chen",
+    "count": 2,
     "rank": 2
   },
   {
-    "author": "Rui-Xi Wang",
-    "count": 1,
+    "author": "Brent A. Griffin",
+    "count": 2,
     "rank": 3
   },
   {
-    "author": "Yu Li",
-    "count": 1,
+    "author": "Claire Sun",
+    "count": 2,
     "rank": 4
   },
   {
-    "author": "Slava G. Turyshev",
-    "count": 1,
+    "author": "Hongyi Lin",
+    "count": 2,
     "rank": 5
   },
   {
-    "author": "Shuaikang Zhu",
-    "count": 1,
+    "author": "Tuan-Duc Nguyen",
+    "count": 2,
     "rank": 6
   },
   {
-    "author": "Hongyu An",
-    "count": 1,
+    "author": "Rama Y. AlHamidi",
+    "count": 2,
     "rank": 7
   },
   {
-    "author": "Dingyi Yao",
-    "count": 1,
+    "author": "Deniz Bickici",
+    "count": 2,
     "rank": 8
   },
   {
-    "author": "Cong Wang",
-    "count": 1,
+    "author": "Jiayi Wu",
+    "count": 2,
     "rank": 9
   },
   {
-    "author": "Yingwei Tang",
-    "count": 1,
+    "author": "Xi Li",
+    "count": 2,
     "rank": 10
   },
   {
-    "author": "Neelesh Rampal",
+    "author": "Cesar Roder",
     "count": 1,
     "rank": 11
+  },
+  {
+    "author": "Chanjong Im",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "author": "Asif Hanif",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "author": "Clément Fuchs",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "author": "Xinlei Liu",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "author": "Gabriel Clinger",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "author": "Haoming Meng",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "author": "Sairam VCR",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "author": "Rafael Rivera Soto",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "author": "Maxime Moussi",
+    "count": 1,
+    "rank": 20
   }
 ]
