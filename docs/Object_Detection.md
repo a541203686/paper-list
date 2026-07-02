@@ -1,10 +1,11 @@
 ## 目标检测 (Object Detection)
 
-总论文数: **3280**
+总论文数: **3282**
 
 ## 月度归档
 
-- [2026-06](Object_Detection/2026-06.md) (18 papers)
+- [2026-07](Object_Detection/2026-07.md) (6 papers)
+- [2026-06](Object_Detection/2026-06.md) (14 papers)
 - [2026-04](Object_Detection/2026-04.md) (80 papers)
 - [2026-03](Object_Detection/2026-03.md) (148 papers)
 - [2026-02](Object_Detection/2026-02.md) (103 papers)
