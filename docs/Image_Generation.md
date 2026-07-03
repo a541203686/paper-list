@@ -1,11 +1,10 @@
 ## 图像生成 (Image Generation)
 
-总论文数: **4417**
+总论文数: **4414**
 
 ## 月度归档
 
-- [2026-07](Image_Generation/2026-07.md) (7 papers)
-- [2026-06](Image_Generation/2026-06.md) (14 papers)
+- [2026-07](Image_Generation/2026-07.md) (18 papers)
 - [2026-04](Image_Generation/2026-04.md) (169 papers)
 - [2026-03](Image_Generation/2026-03.md) (288 papers)
 - [2026-02](Image_Generation/2026-02.md) (273 papers)
