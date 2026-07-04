@@ -2866,8 +2866,8 @@
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-07-01",
-    "count": 4
+    "date": "2026-07-02",
+    "count": 1
   },
   {
     "topic": "Anomaly Detection",
@@ -12565,6 +12565,11 @@
     "count": 6
   },
   {
+    "topic": "Classification",
+    "date": "2026-07-02",
+    "count": 4
+  },
+  {
     "topic": "Depth Estimation",
     "date": "2024-02-19",
     "count": 2
@@ -15441,13 +15446,8 @@
   },
   {
     "topic": "Depth Estimation",
-    "date": "2026-07-01",
-    "count": 3
-  },
-  {
-    "topic": "Depth Estimation",
     "date": "2026-07-02",
-    "count": 3
+    "count": 4
   },
   {
     "topic": "Diffusion Models",
@@ -21136,13 +21136,8 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-07-01",
-    "count": 11
-  },
-  {
-    "topic": "Image Generation",
     "date": "2026-07-02",
-    "count": 7
+    "count": 8
   },
   {
     "topic": "LLM",
@@ -28901,13 +28896,8 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-07-01",
-    "count": 6
-  },
-  {
-    "topic": "Object Detection",
     "date": "2026-07-02",
-    "count": 9
+    "count": 11
   },
   {
     "topic": "Object Tracking",
@@ -31266,13 +31256,8 @@
   },
   {
     "topic": "Object Tracking",
-    "date": "2026-07-01",
-    "count": 10
-  },
-  {
-    "topic": "Object Tracking",
     "date": "2026-07-02",
-    "count": 5
+    "count": 7
   },
   {
     "topic": "Optical Flow",
@@ -42161,13 +42146,8 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-07-01",
-    "count": 8
-  },
-  {
-    "topic": "Scene Understanding",
     "date": "2026-07-02",
-    "count": 4
+    "count": 5
   },
   {
     "topic": "Semantic Segmentation",
@@ -45371,13 +45351,8 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-07-01",
-    "count": 4
-  },
-  {
-    "topic": "Semantic Segmentation",
     "date": "2026-07-02",
-    "count": 7
+    "count": 9
   },
   {
     "topic": "Transfer Learning",
@@ -48126,12 +48101,7 @@
   },
   {
     "topic": "Video Understanding",
-    "date": "2026-07-01",
-    "count": 14
-  },
-  {
-    "topic": "Video Understanding",
     "date": "2026-07-02",
-    "count": 12
+    "count": 16
   }
 ]
