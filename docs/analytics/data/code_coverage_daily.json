@@ -4011,13 +4011,6 @@
     "code_coverage": 0.0
   },
   {
-    "topic": "Action Recognition",
-    "date": "2026-07-06",
-    "total": 5,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
     "topic": "Anomaly Detection",
     "date": "2024-02-25",
     "total": 1,
@@ -17591,20 +17584,6 @@
     "code_coverage": 0.0
   },
   {
-    "topic": "Classification",
-    "date": "2026-07-06",
-    "total": 2,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Classification",
-    "date": "2026-07-07",
-    "total": 7,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
     "topic": "Depth Estimation",
     "date": "2024-02-19",
     "total": 2,
@@ -21630,20 +21609,6 @@
     "code_coverage": 0.0
   },
   {
-    "topic": "Depth Estimation",
-    "date": "2026-07-06",
-    "total": 2,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Depth Estimation",
-    "date": "2026-07-07",
-    "total": 1,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
     "topic": "Diffusion Models",
     "date": "2026-04-13",
     "total": 25,
@@ -21710,20 +21675,6 @@
     "topic": "Diffusion Models",
     "date": "2026-04-30",
     "total": 15,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Diffusion Models",
-    "date": "2026-07-06",
-    "total": 27,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Diffusion Models",
-    "date": "2026-07-07",
-    "total": 19,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -29617,20 +29568,6 @@
     "code_coverage": 0.0
   },
   {
-    "topic": "Image Generation",
-    "date": "2026-07-06",
-    "total": 9,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Image Generation",
-    "date": "2026-07-07",
-    "total": 5,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
     "topic": "LLM",
     "date": "2024-02-28",
     "total": 10,
@@ -36106,20 +36043,6 @@
     "code_coverage": 0.0
   },
   {
-    "topic": "Neural Rendering",
-    "date": "2026-07-06",
-    "total": 7,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Neural Rendering",
-    "date": "2026-07-07",
-    "total": 2,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
     "topic": "Object Detection",
     "date": "2024-02-27",
     "total": 3,
@@ -40502,20 +40425,6 @@
     "code_coverage": 0.0
   },
   {
-    "topic": "Object Detection",
-    "date": "2026-07-06",
-    "total": 7,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Object Detection",
-    "date": "2026-07-07",
-    "total": 1,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
     "topic": "Object Tracking",
     "date": "2024-02-24",
     "total": 2,
@@ -43809,20 +43718,6 @@
     "topic": "Object Tracking",
     "date": "2026-04-30",
     "total": 5,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Object Tracking",
-    "date": "2026-07-06",
-    "total": 14,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Object Tracking",
-    "date": "2026-07-07",
-    "total": 6,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -47155,13 +47050,6 @@
     "topic": "Optical Flow",
     "date": "2026-04-30",
     "total": 1,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Optical Flow",
-    "date": "2026-07-06",
-    "total": 3,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -51865,20 +51753,6 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-04-30",
-    "total": 1,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Pose Estimation",
-    "date": "2026-07-06",
-    "total": 3,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Pose Estimation",
-    "date": "2026-07-07",
     "total": 1,
     "code_covered": 0,
     "code_coverage": 0.0
@@ -59073,20 +58947,6 @@
     "code_coverage": 0.0
   },
   {
-    "topic": "Scene Understanding",
-    "date": "2026-07-06",
-    "total": 8,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Scene Understanding",
-    "date": "2026-07-07",
-    "total": 2,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
     "topic": "Semantic Segmentation",
     "date": "2024-02-27",
     "total": 3,
@@ -63567,20 +63427,6 @@
     "code_coverage": 0.0
   },
   {
-    "topic": "Semantic Segmentation",
-    "date": "2026-07-06",
-    "total": 4,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Semantic Segmentation",
-    "date": "2026-07-07",
-    "total": 3,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
     "topic": "Transfer Learning",
     "date": "2024-02-28",
     "total": 9,
@@ -67420,20 +67266,6 @@
     "topic": "Video Understanding",
     "date": "2026-04-30",
     "total": 10,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Video Understanding",
-    "date": "2026-07-06",
-    "total": 14,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Video Understanding",
-    "date": "2026-07-07",
-    "total": 9,
     "code_covered": 0,
     "code_coverage": 0.0
   }
