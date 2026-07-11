@@ -1,102 +1,102 @@
 [
   {
-    "author": "Shail Jadav",
+    "author": "Zixin Guo",
     "count": 3,
     "rank": 1
   },
   {
-    "author": "Zixin Guo",
-    "count": 3,
-    "rank": 2
-  },
-  {
-    "author": "Zihao Zhang",
-    "count": 2,
-    "rank": 3
-  },
-  {
-    "author": "Yilong Chen",
-    "count": 2,
-    "rank": 4
-  },
-  {
     "author": "Tianyi Song",
     "count": 2,
-    "rank": 5
+    "rank": 2
   },
   {
     "author": "Noah Jaitner",
     "count": 2,
-    "rank": 6
-  },
-  {
-    "author": "Erik Jagnandan",
-    "count": 2,
-    "rank": 7
-  },
-  {
-    "author": "Lipu Zhou",
-    "count": 2,
-    "rank": 8
-  },
-  {
-    "author": "Xiangyu Sun",
-    "count": 2,
-    "rank": 9
+    "rank": 3
   },
   {
     "author": "Yifan Wang",
     "count": 2,
-    "rank": 10
+    "rank": 4
   },
   {
     "author": "Yidong Ouyang",
     "count": 2,
-    "rank": 11
-  },
-  {
-    "author": "Wenyan Xu",
-    "count": 2,
-    "rank": 12
-  },
-  {
-    "author": "Qipeng Qian",
-    "count": 2,
-    "rank": 13
-  },
-  {
-    "author": "Ishaan Batta",
-    "count": 2,
-    "rank": 14
+    "rank": 5
   },
   {
     "author": "Siddharth Damodharan",
     "count": 2,
-    "rank": 15
-  },
-  {
-    "author": "Wentao Zhang",
-    "count": 2,
-    "rank": 16
-  },
-  {
-    "author": "Waqas Arshid",
-    "count": 2,
-    "rank": 17
+    "rank": 6
   },
   {
     "author": "Cheng-De Fan",
     "count": 2,
-    "rank": 18
+    "rank": 7
   },
   {
     "author": "Hongyu Liu",
     "count": 2,
-    "rank": 19
+    "rank": 8
   },
   {
     "author": "Wenbo Xu",
     "count": 2,
+    "rank": 9
+  },
+  {
+    "author": "Thanh-Nhan Vo",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "author": "Xia Cui",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "author": "Hong Zhao",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "author": "Kianoosh Ashouritaklimi",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "author": "ZhiXin Sun",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "author": "Ahmet Soyyigit",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "author": "Qishun Wang",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "author": "Wenhao Dong",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "author": "Trong-Thuan Nguyen",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "author": "Hyeonseop Song",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "author": "Mingyu Dou",
+    "count": 1,
     "rank": 20
   }
 ]

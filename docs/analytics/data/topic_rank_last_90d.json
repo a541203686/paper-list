@@ -1,67 +1,67 @@
 [
   {
     "topic": "Diffusion Models",
-    "count": 201,
+    "count": 184,
     "rank": 1
   },
   {
     "topic": "Video Understanding",
-    "count": 139,
+    "count": 131,
     "rank": 2
   },
   {
     "topic": "Image Generation",
-    "count": 138,
+    "count": 129,
     "rank": 3
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 83,
+    "count": 75,
     "rank": 4
   },
   {
     "topic": "Neural Rendering",
-    "count": 78,
+    "count": 74,
     "rank": 5
   },
   {
     "topic": "Object Tracking",
-    "count": 77,
+    "count": 71,
     "rank": 6
   },
   {
     "topic": "Object Detection",
-    "count": 67,
+    "count": 64,
     "rank": 7
   },
   {
     "topic": "Classification",
-    "count": 56,
+    "count": 51,
     "rank": 8
   },
   {
     "topic": "Scene Understanding",
-    "count": 47,
+    "count": 45,
     "rank": 9
   },
   {
     "topic": "Action Recognition",
-    "count": 34,
+    "count": 33,
     "rank": 10
   },
   {
     "topic": "Pose Estimation",
-    "count": 31,
+    "count": 27,
     "rank": 11
   },
   {
     "topic": "Depth Estimation",
-    "count": 22,
+    "count": 19,
     "rank": 12
   },
   {
     "topic": "Optical Flow",
-    "count": 12,
+    "count": 10,
     "rank": 13
   }
 ]
