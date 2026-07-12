@@ -1,10 +1,9 @@
 ## 目标跟踪 (Object Tracking)
 
-总论文数: **884**
+总论文数: **877**
 
 ## 月度归档
 
-- [2026-07](Object_Tracking/2026-07.md) (7 papers)
 - [2026-04](Object_Tracking/2026-04.md) (72 papers)
 - [2026-03](Object_Tracking/2026-03.md) (26 papers)
 - [2026-02](Object_Tracking/2026-02.md) (16 papers)
