@@ -137,7 +137,7 @@
   {
     "topic": "Action Recognition",
     "date": "2026-07",
-    "count": 1
+    "count": 5
   },
   {
     "topic": "Anomaly Detection",
@@ -542,7 +542,7 @@
   {
     "topic": "Classification",
     "date": "2026-07",
-    "count": 4
+    "count": 12
   },
   {
     "topic": "Depth Estimation",
@@ -682,7 +682,7 @@
   {
     "topic": "Depth Estimation",
     "date": "2026-07",
-    "count": 1
+    "count": 5
   },
   {
     "topic": "Diffusion Models",
@@ -692,7 +692,7 @@
   {
     "topic": "Diffusion Models",
     "date": "2026-07",
-    "count": 10
+    "count": 41
   },
   {
     "topic": "Graph Neural Networks",
@@ -962,7 +962,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-07",
-    "count": 3
+    "count": 13
   },
   {
     "topic": "LLM",
@@ -1247,7 +1247,7 @@
   {
     "topic": "Neural Rendering",
     "date": "2026-07",
-    "count": 3
+    "count": 11
   },
   {
     "topic": "Object Detection",
@@ -1382,7 +1382,7 @@
   {
     "topic": "Object Detection",
     "date": "2026-07",
-    "count": 2
+    "count": 9
   },
   {
     "topic": "Object Tracking",
@@ -1522,7 +1522,7 @@
   {
     "topic": "Object Tracking",
     "date": "2026-07",
-    "count": 2
+    "count": 12
   },
   {
     "topic": "Optical Flow",
@@ -1658,6 +1658,11 @@
     "topic": "Optical Flow",
     "date": "2026-04",
     "count": 18
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2026-07",
+    "count": 3
   },
   {
     "topic": "Pose Estimation",
@@ -1797,7 +1802,7 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-07",
-    "count": 3
+    "count": 7
   },
   {
     "topic": "Reinforcement Learning",
@@ -2067,7 +2072,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-07",
-    "count": 4
+    "count": 6
   },
   {
     "topic": "Semantic Segmentation",
@@ -2197,7 +2202,7 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-07",
-    "count": 3
+    "count": 12
   },
   {
     "topic": "Transfer Learning",
@@ -2337,6 +2342,6 @@
   {
     "topic": "Video Understanding",
     "date": "2026-07",
-    "count": 2
+    "count": 19
   }
 ]
