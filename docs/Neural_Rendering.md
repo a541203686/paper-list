@@ -1,10 +1,10 @@
 ## 神经渲染 (Neural Rendering)
 
-总论文数: **80**
+总论文数: **79**
 
 ## 月度归档
 
-- [2026-07](Neural_Rendering/2026-07.md) (11 papers)
+- [2026-07](Neural_Rendering/2026-07.md) (10 papers)
 - [2026-04](Neural_Rendering/2026-04.md) (69 papers)
 
 <p align=right>(<a href=index.md>返回主页</a>)</p>
