@@ -1,10 +1,10 @@
 ## 动作识别 (Action Recognition)
 
-总论文数: **1153**
+总论文数: **1152**
 
 ## 月度归档
 
-- [2026-07](Action_Recognition/2026-07.md) (4 papers)
+- [2026-07](Action_Recognition/2026-07.md) (3 papers)
 - [2026-04](Action_Recognition/2026-04.md) (39 papers)
 - [2026-03](Action_Recognition/2026-03.md) (36 papers)
 - [2026-02](Action_Recognition/2026-02.md) (16 papers)
