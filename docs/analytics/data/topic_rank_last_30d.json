@@ -1,32 +1,67 @@
 [
   {
-    "topic": "Object Tracking",
-    "count": 3,
+    "topic": "Diffusion Models",
+    "count": 31,
     "rank": 1
   },
   {
-    "topic": "Diffusion Models",
-    "count": 3,
+    "topic": "Video Understanding",
+    "count": 21,
     "rank": 2
   },
   {
-    "topic": "Video Understanding",
-    "count": 3,
+    "topic": "Object Tracking",
+    "count": 14,
     "rank": 3
   },
   {
-    "topic": "Depth Estimation",
-    "count": 2,
+    "topic": "Image Generation",
+    "count": 14,
     "rank": 4
   },
   {
-    "topic": "Image Generation",
-    "count": 1,
+    "topic": "Neural Rendering",
+    "count": 12,
     "rank": 5
   },
   {
-    "topic": "Scene Understanding",
-    "count": 1,
+    "topic": "Semantic Segmentation",
+    "count": 8,
     "rank": 6
+  },
+  {
+    "topic": "Scene Understanding",
+    "count": 8,
+    "rank": 7
+  },
+  {
+    "topic": "Classification",
+    "count": 5,
+    "rank": 8
+  },
+  {
+    "topic": "Object Detection",
+    "count": 5,
+    "rank": 9
+  },
+  {
+    "topic": "Action Recognition",
+    "count": 4,
+    "rank": 10
+  },
+  {
+    "topic": "Pose Estimation",
+    "count": 4,
+    "rank": 11
+  },
+  {
+    "topic": "Depth Estimation",
+    "count": 4,
+    "rank": 12
+  },
+  {
+    "topic": "Optical Flow",
+    "count": 2,
+    "rank": 13
   }
 ]
