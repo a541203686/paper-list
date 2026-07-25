@@ -10,27 +10,27 @@
     "rank": 2
   },
   {
-    "author": "Hao Wang",
+    "author": "Saeid Jamshidi",
     "count": 11,
     "rank": 3
   },
   {
-    "author": "Saeid Jamshidi",
-    "count": 11,
-    "rank": 4
-  },
-  {
     "author": "Xiang Li",
     "count": 9,
-    "rank": 5
+    "rank": 4
   },
   {
     "author": "Yida Lin",
     "count": 9,
-    "rank": 6
+    "rank": 5
   },
   {
     "author": "Yu Li",
+    "count": 9,
+    "rank": 6
+  },
+  {
+    "author": "Hao Wang",
     "count": 9,
     "rank": 7
   },

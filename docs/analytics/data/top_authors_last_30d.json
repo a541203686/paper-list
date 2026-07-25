@@ -1,26 +1,26 @@
 [
   {
-    "author": "Qiwei Ma",
+    "author": "Yihong Sun",
     "count": 3,
     "rank": 1
   },
   {
-    "author": "Kwonyoung Ryu",
-    "count": 3,
-    "rank": 2
-  },
-  {
     "author": "Tong Ling",
     "count": 2,
-    "rank": 3
+    "rank": 2
   },
   {
     "author": "Ke Ma",
     "count": 2,
-    "rank": 4
+    "rank": 3
   },
   {
     "author": "Jiayi Xu",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "author": "Rogerio Guimaraes",
     "count": 2,
     "rank": 5
   },
@@ -55,48 +55,48 @@
     "rank": 11
   },
   {
-    "author": "Eric Regina",
+    "author": "Linlin Wang",
     "count": 2,
     "rank": 12
   },
   {
-    "author": "Zhi Chen",
+    "author": "Junhao Chen",
     "count": 2,
     "rank": 13
   },
   {
-    "author": "Linlin Wang",
+    "author": "Sicheng Mo",
     "count": 2,
     "rank": 14
   },
   {
-    "author": "Junhao Chen",
+    "author": "Junsong Chen",
     "count": 2,
     "rank": 15
   },
   {
-    "author": "Hao Wang",
+    "author": "Xinyang Song",
     "count": 2,
     "rank": 16
   },
   {
-    "author": "Xinyang Song",
+    "author": "Zekun Li",
     "count": 2,
     "rank": 17
   },
   {
-    "author": "Zekun Li",
+    "author": "Yukun Shi",
     "count": 2,
     "rank": 18
   },
   {
-    "author": "Xuening Tian",
-    "count": 2,
+    "author": "Guillermo Rubiños Rodríguez",
+    "count": 1,
     "rank": 19
   },
   {
-    "author": "Renbiao Jin",
-    "count": 2,
+    "author": "Abhijeet Narang",
+    "count": 1,
     "rank": 20
   }
 ]
