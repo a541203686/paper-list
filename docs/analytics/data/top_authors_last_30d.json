@@ -1,81 +1,81 @@
 [
   {
-    "author": "Tianyu Li",
-    "count": 4,
+    "author": "Ben Glickenhaus",
+    "count": 2,
     "rank": 1
-  },
-  {
-    "author": "A. Contreras",
-    "count": 3,
-    "rank": 2
-  },
-  {
-    "author": "Xiangqun Zhang",
-    "count": 2,
-    "rank": 3
-  },
-  {
-    "author": "Yung-Hsu Yang",
-    "count": 2,
-    "rank": 4
-  },
-  {
-    "author": "Huynh Duc An Son Nguyen",
-    "count": 2,
-    "rank": 5
   },
   {
     "author": "Yiming Cai",
     "count": 2,
-    "rank": 6
+    "rank": 2
+  },
+  {
+    "author": "Junrui Zhang",
+    "count": 2,
+    "rank": 3
+  },
+  {
+    "author": "Juheon Hwang",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "author": "Piyush Jain",
+    "count": 2,
+    "rank": 5
   },
   {
     "author": "Jingxuan Su",
     "count": 2,
+    "rank": 6
+  },
+  {
+    "author": "Jianjun Chen",
+    "count": 1,
     "rank": 7
   },
   {
-    "author": "Ruijie Su",
-    "count": 2,
+    "author": "Longxia Gao",
+    "count": 1,
     "rank": 8
   },
   {
-    "author": "Tianyan Deng",
+    "author": "Nguyen Duc Thai",
     "count": 1,
     "rank": 9
   },
   {
-    "author": "Ignacio M. De la Jara",
+    "author": "Lorenzo Sciandra",
     "count": 1,
     "rank": 10
   },
   {
-    "author": "Takeshi Nishikawa",
+    "author": "Jiazhen Ji",
     "count": 1,
     "rank": 11
   },
   {
-    "author": "Sudipta Paul",
+    "author": "Tianyan Deng",
     "count": 1,
     "rank": 12
   },
   {
-    "author": "Syed Mhamudul Hasan",
+    "author": "Ignacio M. De la Jara",
     "count": 1,
     "rank": 13
   },
   {
-    "author": "Abhishek dileep",
+    "author": "Riza Alaudin Syah",
     "count": 1,
     "rank": 14
   },
   {
-    "author": "Qitao Chen",
+    "author": "Sweta Banerjee",
     "count": 1,
     "rank": 15
   },
   {
-    "author": "Reihaneh Rostami",
+    "author": "Songsong Duan",
     "count": 1,
     "rank": 16
   },
@@ -85,17 +85,17 @@
     "rank": 17
   },
   {
-    "author": "Yannick Kees",
+    "author": "Jinghong Liu",
     "count": 1,
     "rank": 18
   },
   {
-    "author": "Samsad Alam",
+    "author": "Dekun Yuan",
     "count": 1,
     "rank": 19
   },
   {
-    "author": "Hafeez Anwar",
+    "author": "Mengqi He",
     "count": 1,
     "rank": 20
   }
