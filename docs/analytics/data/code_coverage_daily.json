@@ -4011,6 +4011,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Action Recognition",
+    "date": "2026-08-02",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Anomaly Detection",
     "date": "2024-02-25",
     "total": 1,
@@ -40425,6 +40432,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Object Detection",
+    "date": "2026-08-02",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Object Tracking",
     "date": "2024-02-24",
     "total": 2,
@@ -43718,6 +43732,13 @@
     "topic": "Object Tracking",
     "date": "2026-04-30",
     "total": 5,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-08-02",
+    "total": 1,
     "code_covered": 0,
     "code_coverage": 0.0
   },

@@ -26,6 +26,7 @@ Action Recognition,2026-01,43
 Action Recognition,2026-02,16
 Action Recognition,2026-03,36
 Action Recognition,2026-04,39
+Action Recognition,2026-08,1
 Anomaly Detection,2024-02,16
 Anomaly Detection,2024-03,111
 Anomaly Detection,2024-04,103
@@ -269,6 +270,7 @@ Object Detection,2026-01,99
 Object Detection,2026-02,103
 Object Detection,2026-03,148
 Object Detection,2026-04,80
+Object Detection,2026-08,1
 Object Tracking,2024-02,10
 Object Tracking,2024-03,40
 Object Tracking,2024-04,23
@@ -296,6 +298,7 @@ Object Tracking,2026-01,14
 Object Tracking,2026-02,16
 Object Tracking,2026-03,26
 Object Tracking,2026-04,72
+Object Tracking,2026-08,1
 Optical Flow,2024-02,11
 Optical Flow,2024-03,43
 Optical Flow,2024-04,31

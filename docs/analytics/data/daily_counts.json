@@ -2865,6 +2865,11 @@
     "count": 6
   },
   {
+    "topic": "Action Recognition",
+    "date": "2026-08-02",
+    "count": 1
+  },
+  {
     "topic": "Anomaly Detection",
     "date": "2024-02-25",
     "count": 1
@@ -28875,6 +28880,11 @@
     "count": 2
   },
   {
+    "topic": "Object Detection",
+    "date": "2026-08-02",
+    "count": 1
+  },
+  {
     "topic": "Object Tracking",
     "date": "2024-02-24",
     "count": 2
@@ -31228,6 +31238,11 @@
     "topic": "Object Tracking",
     "date": "2026-04-30",
     "count": 5
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-08-02",
+    "count": 1
   },
   {
     "topic": "Optical Flow",
