@@ -1,21 +1,21 @@
 [
   {
-    "author": "Chengming Feng",
-    "count": 3,
-    "rank": 1
-  },
-  {
-    "author": "Luecheng Wang",
+    "author": "Jerzy Stefanowski",
     "count": 2,
-    "rank": 2
+    "rank": 1
   },
   {
     "author": "Robin Trombetta",
     "count": 2,
+    "rank": 2
+  },
+  {
+    "author": "Haodong Yan",
+    "count": 2,
     "rank": 3
   },
   {
-    "author": "Xia Yan",
+    "author": "Yushe Cao",
     "count": 2,
     "rank": 4
   },
@@ -25,77 +25,77 @@
     "rank": 5
   },
   {
-    "author": "Rafał Buler",
-    "count": 1,
+    "author": "Qifeng Zhang",
+    "count": 2,
     "rank": 6
   },
   {
-    "author": "Qingmei Li",
+    "author": "Rafał Buler",
     "count": 1,
     "rank": 7
   },
   {
-    "author": "Xi Xiao",
+    "author": "Qingmei Li",
     "count": 1,
     "rank": 8
   },
   {
-    "author": "Rahil Aftab",
+    "author": "Nima Hatami",
     "count": 1,
     "rank": 9
   },
   {
-    "author": "Simon Lösche",
+    "author": "Badha Rathna Sabhapathy",
     "count": 1,
     "rank": 10
   },
   {
-    "author": "Minseo Seong",
+    "author": "Rajatsubhra Chakraborty",
     "count": 1,
     "rank": 11
   },
   {
-    "author": "Nima Hatami",
+    "author": "Théo Danielou",
     "count": 1,
     "rank": 12
   },
   {
-    "author": "Badha Rathna Sabhapathy",
+    "author": "Jiaxuan Li",
     "count": 1,
     "rank": 13
   },
   {
-    "author": "Zian Wang",
+    "author": "Guoan Xu",
     "count": 1,
     "rank": 14
   },
   {
-    "author": "Bin Pu",
+    "author": "Wentao Sun",
     "count": 1,
     "rank": 15
   },
   {
-    "author": "Tiannuo Guo",
+    "author": "Arun K. Gurung",
     "count": 1,
     "rank": 16
   },
   {
-    "author": "Zijian Zhuang",
+    "author": "Dohyeon Kong",
     "count": 1,
     "rank": 17
   },
   {
-    "author": "Rajatsubhra Chakraborty",
+    "author": "Changyuan Wang",
     "count": 1,
     "rank": 18
   },
   {
-    "author": "Théo Danielou",
+    "author": "Weikai Xu",
     "count": 1,
     "rank": 19
   },
   {
-    "author": "Jiaxuan Li",
+    "author": "Eulogio Quemada-Torres",
     "count": 1,
     "rank": 20
   }

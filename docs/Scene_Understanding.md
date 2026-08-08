@@ -1,10 +1,10 @@
 ## 场景理解 (Scene Understanding)
 
-总论文数: **1435**
+总论文数: **1426**
 
 ## 月度归档
 
-- [2026-08](Scene_Understanding/2026-08.md) (12 papers)
+- [2026-08](Scene_Understanding/2026-08.md) (3 papers)
 - [2026-04](Scene_Understanding/2026-04.md) (52 papers)
 - [2026-03](Scene_Understanding/2026-03.md) (87 papers)
 - [2026-02](Scene_Understanding/2026-02.md) (8 papers)
