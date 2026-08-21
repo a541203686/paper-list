@@ -2866,8 +2866,8 @@
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-08-18",
-    "count": 4
+    "date": "2026-08-19",
+    "count": 1
   },
   {
     "topic": "Anomaly Detection",
@@ -12566,8 +12566,8 @@
   },
   {
     "topic": "Classification",
-    "date": "2026-08-18",
-    "count": 3
+    "date": "2026-08-19",
+    "count": 1
   },
   {
     "topic": "Depth Estimation",
@@ -15445,11 +15445,6 @@
     "count": 1
   },
   {
-    "topic": "Depth Estimation",
-    "date": "2026-08-18",
-    "count": 1
-  },
-  {
     "topic": "Diffusion Models",
     "date": "2026-04-13",
     "count": 25
@@ -15501,8 +15496,8 @@
   },
   {
     "topic": "Diffusion Models",
-    "date": "2026-08-18",
-    "count": 15
+    "date": "2026-08-19",
+    "count": 8
   },
   {
     "topic": "Graph Neural Networks",
@@ -21141,8 +21136,8 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-08-18",
-    "count": 7
+    "date": "2026-08-19",
+    "count": 6
   },
   {
     "topic": "LLM",
@@ -25771,8 +25766,8 @@
   },
   {
     "topic": "Neural Rendering",
-    "date": "2026-08-18",
-    "count": 9
+    "date": "2026-08-19",
+    "count": 3
   },
   {
     "topic": "Object Detection",
@@ -28906,7 +28901,7 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-08-18",
+    "date": "2026-08-19",
     "count": 3
   },
   {
@@ -31266,8 +31261,8 @@
   },
   {
     "topic": "Object Tracking",
-    "date": "2026-08-18",
-    "count": 5
+    "date": "2026-08-19",
+    "count": 7
   },
   {
     "topic": "Optical Flow",
@@ -33651,8 +33646,8 @@
   },
   {
     "topic": "Optical Flow",
-    "date": "2026-08-18",
-    "count": 1
+    "date": "2026-08-19",
+    "count": 2
   },
   {
     "topic": "Pose Estimation",
@@ -37012,6 +37007,11 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-04-30",
+    "count": 1
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2026-08-19",
     "count": 1
   },
   {
@@ -42151,8 +42151,8 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-08-18",
-    "count": 1
+    "date": "2026-08-19",
+    "count": 4
   },
   {
     "topic": "Semantic Segmentation",
@@ -45356,8 +45356,8 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-08-18",
-    "count": 5
+    "date": "2026-08-19",
+    "count": 8
   },
   {
     "topic": "Transfer Learning",
@@ -48106,7 +48106,7 @@
   },
   {
     "topic": "Video Understanding",
-    "date": "2026-08-18",
-    "count": 8
+    "date": "2026-08-19",
+    "count": 7
   }
 ]
