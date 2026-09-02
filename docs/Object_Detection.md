@@ -4,7 +4,8 @@
 
 ## 月度归档
 
-- [2026-08](Object_Detection/2026-08.md) (8 papers)
+- [2026-09](Object_Detection/2026-09.md) (1 papers)
+- [2026-08](Object_Detection/2026-08.md) (7 papers)
 - [2026-04](Object_Detection/2026-04.md) (80 papers)
 - [2026-03](Object_Detection/2026-03.md) (148 papers)
 - [2026-02](Object_Detection/2026-02.md) (103 papers)
