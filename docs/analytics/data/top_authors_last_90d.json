@@ -1,102 +1,102 @@
 [
   {
-    "author": "Quan Hao",
-    "count": 4,
+    "author": "Kaiyue Kang",
+    "count": 3,
     "rank": 1
   },
   {
-    "author": "Wei Wang",
-    "count": 4,
-    "rank": 2
-  },
-  {
-    "author": "Kaiyue Kang",
-    "count": 3,
-    "rank": 3
-  },
-  {
-    "author": "Kun Cao",
-    "count": 3,
-    "rank": 4
-  },
-  {
-    "author": "Aryan Kashyap Naveen",
+    "author": "Chengyin Hu",
     "count": 2,
-    "rank": 5
+    "rank": 2
   },
   {
     "author": "Saravana Mauree",
     "count": 2,
+    "rank": 3
+  },
+  {
+    "author": "Yisen Wang",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "author": "Javier Alejandro Lopetegui Gonzalez",
+    "count": 2,
+    "rank": 5
+  },
+  {
+    "author": "Ziyun Qian",
+    "count": 2,
     "rank": 6
   },
   {
-    "author": "Xin Zhou",
-    "count": 2,
+    "author": "Jierui Li",
+    "count": 1,
     "rank": 7
   },
   {
-    "author": "Minghan Qin",
-    "count": 2,
+    "author": "Ehsan Faghih",
+    "count": 1,
     "rank": 8
   },
   {
-    "author": "Avi Gupta",
-    "count": 2,
+    "author": "Manish Gupta",
+    "count": 1,
     "rank": 9
   },
   {
-    "author": "Samir Abdaljalil",
-    "count": 2,
+    "author": "Kewei Li",
+    "count": 1,
     "rank": 10
   },
   {
-    "author": "Vanodhya G. Warnasooriya",
-    "count": 2,
+    "author": "Utsab Ghosh",
+    "count": 1,
     "rank": 11
   },
   {
-    "author": "Yiling Yao",
-    "count": 2,
+    "author": "Seung-Hyun Song",
+    "count": 1,
     "rank": 12
   },
   {
-    "author": "Tiago Kienen Chaves",
-    "count": 2,
+    "author": "Thijs A. Eker",
+    "count": 1,
     "rank": 13
   },
   {
-    "author": "Bingtian Qiao",
-    "count": 2,
+    "author": "Ziwei Zhao",
+    "count": 1,
     "rank": 14
   },
   {
-    "author": "Yuannuo Feng",
-    "count": 2,
+    "author": "Isabel D. Stein",
+    "count": 1,
     "rank": 15
   },
   {
-    "author": "Farzan Haddadi",
-    "count": 2,
+    "author": "Yinghao Sun",
+    "count": 1,
     "rank": 16
   },
   {
-    "author": "Juliana Felder",
-    "count": 2,
+    "author": "Chad Melton",
+    "count": 1,
     "rank": 17
   },
   {
-    "author": "Weiyi You",
-    "count": 2,
+    "author": "Jürgen J. Popp",
+    "count": 1,
     "rank": 18
   },
   {
-    "author": "Lintao Xu",
-    "count": 2,
+    "author": "Damian Sójka",
+    "count": 1,
     "rank": 19
   },
   {
-    "author": "Shengyao Chen",
-    "count": 2,
+    "author": "Qin Lu",
+    "count": 1,
     "rank": 20
   }
 ]
