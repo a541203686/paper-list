@@ -26,7 +26,7 @@ Action Recognition,2026-01,43
 Action Recognition,2026-02,16
 Action Recognition,2026-03,36
 Action Recognition,2026-04,39
-Action Recognition,2026-09,5
+Action Recognition,2026-09,4
 Anomaly Detection,2024-02,16
 Anomaly Detection,2024-03,111
 Anomaly Detection,2024-04,103
@@ -107,7 +107,7 @@ Classification,2026-01,107
 Classification,2026-02,95
 Classification,2026-03,123
 Classification,2026-04,68
-Classification,2026-09,8
+Classification,2026-09,5
 Depth Estimation,2024-02,11
 Depth Estimation,2024-03,58
 Depth Estimation,2024-04,46
@@ -135,7 +135,7 @@ Depth Estimation,2026-01,30
 Depth Estimation,2026-02,26
 Depth Estimation,2026-03,53
 Depth Estimation,2026-04,37
-Depth Estimation,2026-09,4
+Depth Estimation,2026-09,1
 Diffusion Models,2026-04,166
 Graph Neural Networks,2024-02,19
 Graph Neural Networks,2024-03,171
@@ -190,7 +190,7 @@ Image Generation,2026-01,247
 Image Generation,2026-02,273
 Image Generation,2026-03,288
 Image Generation,2026-04,169
-Image Generation,2026-09,25
+Image Generation,2026-09,23
 LLM,2024-02,20
 LLM,2024-03,193
 LLM,2024-04,211
@@ -247,6 +247,7 @@ Multimodal,2026-02,8
 Multimodal,2026-03,54
 Multimodal,2026-04,7
 Neural Rendering,2026-04,69
+Neural Rendering,2026-09,16
 Object Detection,2024-02,20
 Object Detection,2024-03,164
 Object Detection,2024-04,141
@@ -329,7 +330,7 @@ Optical Flow,2026-01,16
 Optical Flow,2026-02,12
 Optical Flow,2026-03,32
 Optical Flow,2026-04,18
-Optical Flow,2026-09,1
+Optical Flow,2026-09,3
 Pose Estimation,2024-02,11
 Pose Estimation,2024-03,95
 Pose Estimation,2024-04,64
@@ -357,7 +358,7 @@ Pose Estimation,2026-01,44
 Pose Estimation,2026-02,59
 Pose Estimation,2026-03,83
 Pose Estimation,2026-04,39
-Pose Estimation,2026-09,5
+Pose Estimation,2026-09,2
 Reinforcement Learning,2024-02,20
 Reinforcement Learning,2024-03,191
 Reinforcement Learning,2024-04,205
@@ -411,7 +412,7 @@ Scene Understanding,2026-01,39
 Scene Understanding,2026-02,8
 Scene Understanding,2026-03,87
 Scene Understanding,2026-04,52
-Scene Understanding,2026-09,6
+Scene Understanding,2026-09,5
 Semantic Segmentation,2024-02,14
 Semantic Segmentation,2024-03,132
 Semantic Segmentation,2024-04,141
@@ -437,7 +438,7 @@ Semantic Segmentation,2026-01,85
 Semantic Segmentation,2026-02,81
 Semantic Segmentation,2026-03,112
 Semantic Segmentation,2026-04,99
-Semantic Segmentation,2026-09,9
+Semantic Segmentation,2026-09,11
 Transfer Learning,2024-02,14
 Transfer Learning,2024-03,168
 Transfer Learning,2024-04,175
@@ -465,4 +466,4 @@ Transfer Learning,2026-02,356
 Transfer Learning,2026-03,966
 Transfer Learning,2026-04,255
 Video Understanding,2026-04,118
-Video Understanding,2026-09,20
+Video Understanding,2026-09,23
