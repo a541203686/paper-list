@@ -137,7 +137,7 @@
   {
     "topic": "Action Recognition",
     "date": "2026-09",
-    "count": 4
+    "count": 1
   },
   {
     "topic": "Anomaly Detection",
@@ -542,7 +542,7 @@
   {
     "topic": "Classification",
     "date": "2026-09",
-    "count": 5
+    "count": 2
   },
   {
     "topic": "Depth Estimation",
@@ -680,14 +680,14 @@
     "count": 37
   },
   {
-    "topic": "Depth Estimation",
-    "date": "2026-09",
-    "count": 1
-  },
-  {
     "topic": "Diffusion Models",
     "date": "2026-04",
     "count": 166
+  },
+  {
+    "topic": "Diffusion Models",
+    "date": "2026-09",
+    "count": 20
   },
   {
     "topic": "Graph Neural Networks",
@@ -957,7 +957,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-09",
-    "count": 23
+    "count": 11
   },
   {
     "topic": "LLM",
@@ -1240,11 +1240,6 @@
     "count": 69
   },
   {
-    "topic": "Neural Rendering",
-    "date": "2026-09",
-    "count": 16
-  },
-  {
     "topic": "Object Detection",
     "date": "2024-02",
     "count": 20
@@ -1377,7 +1372,7 @@
   {
     "topic": "Object Detection",
     "date": "2026-09",
-    "count": 9
+    "count": 4
   },
   {
     "topic": "Object Tracking",
@@ -1517,7 +1512,7 @@
   {
     "topic": "Object Tracking",
     "date": "2026-09",
-    "count": 12
+    "count": 8
   },
   {
     "topic": "Optical Flow",
@@ -1657,7 +1652,7 @@
   {
     "topic": "Optical Flow",
     "date": "2026-09",
-    "count": 3
+    "count": 1
   },
   {
     "topic": "Pose Estimation",
@@ -1797,7 +1792,7 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-09",
-    "count": 2
+    "count": 1
   },
   {
     "topic": "Reinforcement Learning",
@@ -2067,7 +2062,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-09",
-    "count": 5
+    "count": 3
   },
   {
     "topic": "Semantic Segmentation",
@@ -2197,7 +2192,7 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-09",
-    "count": 11
+    "count": 3
   },
   {
     "topic": "Transfer Learning",
@@ -2337,6 +2332,6 @@
   {
     "topic": "Video Understanding",
     "date": "2026-09",
-    "count": 23
+    "count": 18
   }
 ]
