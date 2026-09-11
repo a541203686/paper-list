@@ -1,102 +1,102 @@
 [
   {
-    "author": "Nian Wu",
+    "author": "Jiahao Kong",
     "count": 3,
     "rank": 1
   },
   {
-    "author": "Igor Pavlovic",
-    "count": 3,
+    "author": "Yixiao Li",
+    "count": 2,
     "rank": 2
-  },
-  {
-    "author": "Jingpu Yang",
-    "count": 3,
-    "rank": 3
   },
   {
     "author": "Lingxiao Qu",
     "count": 2,
-    "rank": 4
-  },
-  {
-    "author": "Fei Teng",
-    "count": 2,
-    "rank": 5
-  },
-  {
-    "author": "Davide Malvezzi",
-    "count": 2,
-    "rank": 6
-  },
-  {
-    "author": "Yujin Yang",
-    "count": 2,
-    "rank": 7
+    "rank": 3
   },
   {
     "author": "Samed Doğan",
     "count": 2,
-    "rank": 8
-  },
-  {
-    "author": "Thodoris Betsas",
-    "count": 2,
-    "rank": 9
+    "rank": 4
   },
   {
     "author": "Chandan Biswas",
     "count": 2,
-    "rank": 10
-  },
-  {
-    "author": "Zaid Pervaiz Bhat",
-    "count": 2,
-    "rank": 11
+    "rank": 5
   },
   {
     "author": "Shun Ren",
     "count": 2,
-    "rank": 12
+    "rank": 6
+  },
+  {
+    "author": "Zuomin Qu",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "author": "Justine Giroux",
+    "count": 2,
+    "rank": 8
   },
   {
     "author": "Xinrui Xu",
     "count": 2,
-    "rank": 13
+    "rank": 9
   },
   {
-    "author": "Yuzhong Wang",
+    "author": "Jiarong Lian",
     "count": 2,
-    "rank": 14
+    "rank": 10
   },
   {
-    "author": "Bozhou Li",
+    "author": "Niange Yu",
     "count": 2,
-    "rank": 15
+    "rank": 11
   },
   {
-    "author": "Cong Wang",
+    "author": "Max E. Lee",
     "count": 2,
-    "rank": 16
+    "rank": 12
   },
   {
     "author": "Athanasios Tragakis",
     "count": 2,
-    "rank": 17
+    "rank": 13
   },
   {
     "author": "Yanru An",
     "count": 2,
+    "rank": 14
+  },
+  {
+    "author": "Wagner Moreno Schmitz",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "author": "Yilin Zhang",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "author": "William Novak",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "author": "Mohamed Cherifi",
+    "count": 1,
     "rank": 18
   },
   {
-    "author": "Zhuoran Zhao",
-    "count": 2,
+    "author": "Benedikt Tscheschner",
+    "count": 1,
     "rank": 19
   },
   {
-    "author": "Anton Pelykh",
-    "count": 2,
+    "author": "Abdumannon Yovkochov",
+    "count": 1,
     "rank": 20
   }
 ]
