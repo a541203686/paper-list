@@ -1,12 +1,102 @@
 [
   {
-    "author": "Olivier Brunat",
-    "count": 1,
+    "author": "Nishad Singhi",
+    "count": 4,
     "rank": 1
   },
   {
-    "author": "Tinashe Handina",
-    "count": 1,
+    "author": "Miłosz Adamczyk",
+    "count": 2,
     "rank": 2
+  },
+  {
+    "author": "Muhammad Ahmed Ullah Khan",
+    "count": 2,
+    "rank": 3
+  },
+  {
+    "author": "Jonghyeon Lim",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "author": "Raghu Venkat",
+    "count": 2,
+    "rank": 5
+  },
+  {
+    "author": "Sifan Zhou",
+    "count": 2,
+    "rank": 6
+  },
+  {
+    "author": "Philipp Ausserlechner",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "author": "Fan-Yi Hsu",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "author": "Anubhav Khanal",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "author": "Yuetong Wang",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "author": "Saswat Subhajyoti Mallick",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "author": "Yusuf Ozturk",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "author": "Adam E. A. Fouda",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "author": "Siyu Yuan",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "author": "Yan-Yan Hou",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "author": "Chanho Park",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "author": "Bablu Kumar",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "author": "Vijay John",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "author": "Mohammad Bahrami",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "author": "Carmelo Scribano",
+    "count": 1,
+    "rank": 20
   }
 ]
