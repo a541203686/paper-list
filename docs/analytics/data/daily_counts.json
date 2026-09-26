@@ -2866,11 +2866,6 @@
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-09-23",
-    "count": 4
-  },
-  {
-    "topic": "Action Recognition",
     "date": "2026-09-24",
     "count": 2
   },
@@ -12571,11 +12566,6 @@
   },
   {
     "topic": "Classification",
-    "date": "2026-09-23",
-    "count": 5
-  },
-  {
-    "topic": "Classification",
     "date": "2026-09-24",
     "count": 3
   },
@@ -15452,11 +15442,6 @@
   {
     "topic": "Depth Estimation",
     "date": "2026-04-30",
-    "count": 1
-  },
-  {
-    "topic": "Depth Estimation",
-    "date": "2026-09-23",
     "count": 1
   },
   {
@@ -21151,11 +21136,6 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-09-23",
-    "count": 7
-  },
-  {
-    "topic": "Image Generation",
     "date": "2026-09-24",
     "count": 7
   },
@@ -25786,11 +25766,6 @@
   },
   {
     "topic": "Neural Rendering",
-    "date": "2026-09-23",
-    "count": 3
-  },
-  {
-    "topic": "Neural Rendering",
     "date": "2026-09-24",
     "count": 9
   },
@@ -28926,11 +28901,6 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-09-23",
-    "count": 8
-  },
-  {
-    "topic": "Object Detection",
     "date": "2026-09-24",
     "count": 4
   },
@@ -31287,11 +31257,6 @@
   {
     "topic": "Object Tracking",
     "date": "2026-04-30",
-    "count": 5
-  },
-  {
-    "topic": "Object Tracking",
-    "date": "2026-09-23",
     "count": 5
   },
   {
@@ -33678,11 +33643,6 @@
     "topic": "Optical Flow",
     "date": "2026-04-30",
     "count": 1
-  },
-  {
-    "topic": "Optical Flow",
-    "date": "2026-09-23",
-    "count": 2
   },
   {
     "topic": "Pose Estimation",
@@ -37042,11 +37002,6 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-04-30",
-    "count": 1
-  },
-  {
-    "topic": "Pose Estimation",
-    "date": "2026-09-23",
     "count": 1
   },
   {
@@ -42191,11 +42146,6 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-09-23",
-    "count": 4
-  },
-  {
-    "topic": "Scene Understanding",
     "date": "2026-09-24",
     "count": 5
   },
@@ -45401,11 +45351,6 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-09-23",
-    "count": 10
-  },
-  {
-    "topic": "Semantic Segmentation",
     "date": "2026-09-24",
     "count": 4
   },
@@ -48153,11 +48098,6 @@
     "topic": "Video Understanding",
     "date": "2026-04-30",
     "count": 10
-  },
-  {
-    "topic": "Video Understanding",
-    "date": "2026-09-23",
-    "count": 13
   },
   {
     "topic": "Video Understanding",
