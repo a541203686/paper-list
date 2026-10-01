@@ -1,41 +1,41 @@
 [
   {
-    "author": "Mohammad Mahdi",
-    "count": 4,
+    "author": "Stan Birchfield",
+    "count": 3,
     "rank": 1
-  },
-  {
-    "author": "Kerui Ren",
-    "count": 3,
-    "rank": 2
-  },
-  {
-    "author": "Bingqing Jiang",
-    "count": 3,
-    "rank": 3
   },
   {
     "author": "Thai Duy Nguyen",
     "count": 3,
-    "rank": 4
+    "rank": 2
   },
   {
     "author": "Bhanu Prakash Vangala",
     "count": 2,
-    "rank": 5
+    "rank": 3
   },
   {
     "author": "Zachary Shinnick",
     "count": 2,
+    "rank": 4
+  },
+  {
+    "author": "Yijie Bian",
+    "count": 2,
+    "rank": 5
+  },
+  {
+    "author": "Hahjin Lee",
+    "count": 2,
     "rank": 6
   },
   {
-    "author": "Thomas A. O'Shea-Wheller",
+    "author": "Victor Nan Fernandez-Ayala",
     "count": 2,
     "rank": 7
   },
   {
-    "author": "Ashiyana Abdul Majeed",
+    "author": "Thomas A. O'Shea-Wheller",
     "count": 2,
     "rank": 8
   },
@@ -45,57 +45,57 @@
     "rank": 9
   },
   {
-    "author": "Wonseok Roh",
+    "author": "Zhihao Zheng",
     "count": 2,
     "rank": 10
   },
   {
-    "author": "Xijun Wang",
+    "author": "Yatharth Agarwal",
     "count": 2,
     "rank": 11
   },
   {
-    "author": "Yuta Oshima",
+    "author": "Merav Keidar",
     "count": 2,
     "rank": 12
   },
   {
-    "author": "Chi Zhang",
+    "author": "Xiaoyu Yang",
     "count": 2,
     "rank": 13
   },
   {
-    "author": "Jiawei Hu",
+    "author": "Kavitha Viswanathan",
     "count": 2,
     "rank": 14
   },
   {
-    "author": "Jaewoo Jung",
+    "author": "Xijun Wang",
     "count": 2,
     "rank": 15
   },
   {
-    "author": "Arka Mukherjee",
+    "author": "Rafi Ibn Sultan",
     "count": 2,
     "rank": 16
   },
   {
-    "author": "Sungho Moon",
+    "author": "Jaewoo Jung",
     "count": 2,
     "rank": 17
   },
   {
-    "author": "Gyeonggwan Lee",
+    "author": "Arka Mukherjee",
     "count": 2,
     "rank": 18
   },
   {
-    "author": "Yajiao Xiong",
+    "author": "Gyeonggwan Lee",
     "count": 2,
     "rank": 19
   },
   {
-    "author": "Boyu Zhang",
+    "author": "Ziren Gong",
     "count": 2,
     "rank": 20
   }
