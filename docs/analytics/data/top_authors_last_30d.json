@@ -1,76 +1,76 @@
 [
   {
-    "author": "Stan Birchfield",
+    "author": "Xiaoli Liu",
     "count": 3,
     "rank": 1
   },
   {
-    "author": "Thai Duy Nguyen",
+    "author": "Stan Birchfield",
     "count": 3,
     "rank": 2
   },
   {
-    "author": "Bhanu Prakash Vangala",
+    "author": "Yijie Bian",
     "count": 2,
     "rank": 3
   },
   {
-    "author": "Zachary Shinnick",
+    "author": "Hahjin Lee",
     "count": 2,
     "rank": 4
   },
   {
-    "author": "Yijie Bian",
+    "author": "Charmaine Barker",
     "count": 2,
     "rank": 5
   },
   {
-    "author": "Hahjin Lee",
+    "author": "Arash Rocky",
     "count": 2,
     "rank": 6
   },
   {
-    "author": "Victor Nan Fernandez-Ayala",
+    "author": "Zhihao Zheng",
     "count": 2,
     "rank": 7
   },
   {
-    "author": "Thomas A. O'Shea-Wheller",
+    "author": "Yatharth Agarwal",
     "count": 2,
     "rank": 8
   },
   {
-    "author": "Jer Pelhan",
+    "author": "Merav Keidar",
     "count": 2,
     "rank": 9
   },
   {
-    "author": "Zhihao Zheng",
+    "author": "Eugene Park",
     "count": 2,
     "rank": 10
   },
   {
-    "author": "Yatharth Agarwal",
+    "author": "Tongcheng Zhang",
     "count": 2,
     "rank": 11
   },
   {
-    "author": "Merav Keidar",
+    "author": "Jiayi Chen",
     "count": 2,
     "rank": 12
   },
   {
-    "author": "Xiaoyu Yang",
+    "author": "Jian Liu",
     "count": 2,
     "rank": 13
   },
   {
-    "author": "Kavitha Viswanathan",
+    "author": "Xinhao Xiang",
     "count": 2,
     "rank": 14
   },
   {
-    "author": "Xijun Wang",
+    "author": "Kavitha Viswanathan",
     "count": 2,
     "rank": 15
   },
@@ -80,23 +80,23 @@
     "rank": 16
   },
   {
-    "author": "Jaewoo Jung",
+    "author": "Ziren Gong",
     "count": 2,
     "rank": 17
   },
   {
-    "author": "Arka Mukherjee",
-    "count": 2,
+    "author": "Barış Büyüktaş",
+    "count": 1,
     "rank": 18
   },
   {
-    "author": "Gyeonggwan Lee",
-    "count": 2,
+    "author": "Jianwei Li",
+    "count": 1,
     "rank": 19
   },
   {
-    "author": "Ziren Gong",
-    "count": 2,
+    "author": "Gabriele Tuccio",
+    "count": 1,
     "rank": 20
   }
 ]
