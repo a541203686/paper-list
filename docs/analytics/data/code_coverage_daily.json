@@ -4012,14 +4012,14 @@
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-10-04",
-    "total": 4,
+    "date": "2026-10-05",
+    "total": 7,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-10-05",
+    "date": "2026-10-06",
     "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
@@ -17599,15 +17599,15 @@
   },
   {
     "topic": "Classification",
-    "date": "2026-10-04",
-    "total": 1,
+    "date": "2026-10-05",
+    "total": 8,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Classification",
-    "date": "2026-10-05",
-    "total": 8,
+    "date": "2026-10-06",
+    "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -21638,14 +21638,14 @@
   },
   {
     "topic": "Depth Estimation",
-    "date": "2026-10-04",
-    "total": 1,
+    "date": "2026-10-05",
+    "total": 3,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Depth Estimation",
-    "date": "2026-10-05",
+    "date": "2026-10-06",
     "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
@@ -29611,15 +29611,15 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-10-04",
-    "total": 10,
+    "date": "2026-10-05",
+    "total": 14,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Image Generation",
-    "date": "2026-10-05",
-    "total": 13,
+    "date": "2026-10-06",
+    "total": 9,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -36100,15 +36100,15 @@
   },
   {
     "topic": "Neural Rendering",
-    "date": "2026-10-04",
-    "total": 4,
+    "date": "2026-10-05",
+    "total": 8,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Neural Rendering",
-    "date": "2026-10-05",
-    "total": 4,
+    "date": "2026-10-06",
+    "total": 6,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -40496,15 +40496,15 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-10-04",
-    "total": 3,
+    "date": "2026-10-05",
+    "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Object Detection",
-    "date": "2026-10-05",
-    "total": 4,
+    "date": "2026-10-06",
+    "total": 3,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -43807,15 +43807,15 @@
   },
   {
     "topic": "Object Tracking",
-    "date": "2026-10-04",
-    "total": 7,
+    "date": "2026-10-05",
+    "total": 13,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Object Tracking",
-    "date": "2026-10-05",
-    "total": 7,
+    "date": "2026-10-06",
+    "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -51857,14 +51857,14 @@
   },
   {
     "topic": "Pose Estimation",
-    "date": "2026-10-04",
-    "total": 3,
+    "date": "2026-10-05",
+    "total": 4,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Pose Estimation",
-    "date": "2026-10-05",
+    "date": "2026-10-06",
     "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
@@ -59060,15 +59060,15 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-10-04",
-    "total": 2,
+    "date": "2026-10-05",
+    "total": 3,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-10-05",
-    "total": 2,
+    "date": "2026-10-06",
+    "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -63554,15 +63554,15 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-10-04",
-    "total": 1,
+    "date": "2026-10-05",
+    "total": 4,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-10-05",
-    "total": 4,
+    "date": "2026-10-06",
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -67411,14 +67411,14 @@
   },
   {
     "topic": "Video Understanding",
-    "date": "2026-10-04",
-    "total": 10,
+    "date": "2026-10-05",
+    "total": 16,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Video Understanding",
-    "date": "2026-10-05",
+    "date": "2026-10-06",
     "total": 15,
     "code_covered": 0,
     "code_coverage": 0.0

@@ -5,17 +5,17 @@ Reinforcement Learning,2821,3
 Image Generation,1456,4
 Graph Neural Networks,857,5
 Anomaly Detection,820,6
-Object Detection,780,7
-Classification,724,8
-Semantic Segmentation,695,9
-Audio Processing,584,10
-Pose Estimation,482,11
-Scene Understanding,413,12
-Depth Estimation,315,13
-Action Recognition,306,14
-Object Tracking,286,15
-Multimodal,273,16
-Optical Flow,220,17
+Object Detection,777,7
+Classification,726,8
+Semantic Segmentation,693,9
+Audio Processing,580,10
+Pose Estimation,480,11
+Scene Understanding,415,12
+Depth Estimation,316,13
+Action Recognition,307,14
+Object Tracking,290,15
+Multimodal,272,16
+Optical Flow,218,17
 Diffusion Models,166,18
-Video Understanding,143,19
-Neural Rendering,77,20
+Video Understanding,149,19
+Neural Rendering,83,20
