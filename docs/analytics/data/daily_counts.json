@@ -2865,6 +2865,11 @@
     "count": 6
   },
   {
+    "topic": "Action Recognition",
+    "date": "2026-10-12",
+    "count": 2
+  },
+  {
     "topic": "Anomaly Detection",
     "date": "2024-02-25",
     "count": 1
@@ -12560,6 +12565,11 @@
     "count": 6
   },
   {
+    "topic": "Classification",
+    "date": "2026-10-12",
+    "count": 4
+  },
+  {
     "topic": "Depth Estimation",
     "date": "2024-02-19",
     "count": 2
@@ -15432,6 +15442,11 @@
   {
     "topic": "Depth Estimation",
     "date": "2026-04-30",
+    "count": 1
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2026-10-12",
     "count": 1
   },
   {
@@ -21117,6 +21132,11 @@
   {
     "topic": "Image Generation",
     "date": "2026-04-30",
+    "count": 3
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2026-10-12",
     "count": 3
   },
   {
@@ -28872,6 +28892,11 @@
   {
     "topic": "Object Detection",
     "date": "2026-04-30",
+    "count": 2
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2026-10-12",
     "count": 2
   },
   {
@@ -42105,6 +42130,11 @@
     "count": 2
   },
   {
+    "topic": "Scene Understanding",
+    "date": "2026-10-12",
+    "count": 1
+  },
+  {
     "topic": "Semantic Segmentation",
     "date": "2024-02-27",
     "count": 3
@@ -45303,6 +45333,11 @@
     "topic": "Semantic Segmentation",
     "date": "2026-04-30",
     "count": 5
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2026-10-12",
+    "count": 3
   },
   {
     "topic": "Transfer Learning",
