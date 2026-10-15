@@ -2866,7 +2866,12 @@
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-10-12",
+    "date": "2026-10-13",
+    "count": 2
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2026-10-14",
     "count": 2
   },
   {
@@ -12566,7 +12571,7 @@
   },
   {
     "topic": "Classification",
-    "date": "2026-10-12",
+    "date": "2026-10-13",
     "count": 4
   },
   {
@@ -15446,7 +15451,12 @@
   },
   {
     "topic": "Depth Estimation",
-    "date": "2026-10-12",
+    "date": "2026-10-13",
+    "count": 5
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2026-10-14",
     "count": 1
   },
   {
@@ -21136,8 +21146,13 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-10-12",
-    "count": 3
+    "date": "2026-10-13",
+    "count": 18
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2026-10-14",
+    "count": 9
   },
   {
     "topic": "LLM",
@@ -28896,8 +28911,13 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-10-12",
-    "count": 2
+    "date": "2026-10-13",
+    "count": 7
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2026-10-14",
+    "count": 3
   },
   {
     "topic": "Object Tracking",
@@ -31253,6 +31273,16 @@
     "topic": "Object Tracking",
     "date": "2026-04-30",
     "count": 5
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-10-13",
+    "count": 5
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-10-14",
+    "count": 3
   },
   {
     "topic": "Optical Flow",
@@ -33633,6 +33663,11 @@
     "topic": "Optical Flow",
     "date": "2026-04-30",
     "count": 1
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2026-10-13",
+    "count": 2
   },
   {
     "topic": "Pose Estimation",
@@ -36993,6 +37028,16 @@
     "topic": "Pose Estimation",
     "date": "2026-04-30",
     "count": 1
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2026-10-13",
+    "count": 2
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2026-10-14",
+    "count": 3
   },
   {
     "topic": "Reinforcement Learning",
@@ -42131,8 +42176,13 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-10-12",
-    "count": 1
+    "date": "2026-10-13",
+    "count": 10
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2026-10-14",
+    "count": 4
   },
   {
     "topic": "Semantic Segmentation",
@@ -45336,8 +45386,13 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-10-12",
-    "count": 3
+    "date": "2026-10-13",
+    "count": 4
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2026-10-14",
+    "count": 1
   },
   {
     "topic": "Transfer Learning",
@@ -48083,5 +48138,15 @@
     "topic": "Video Understanding",
     "date": "2026-04-30",
     "count": 10
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-10-13",
+    "count": 27
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-10-14",
+    "count": 16
   }
 ]
