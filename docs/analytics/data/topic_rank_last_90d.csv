@@ -1,11 +1,6 @@
 topic,count,rank
-Video Understanding,40,1
-Semantic Segmentation,19,2
-Scene Understanding,15,3
-Object Detection,12,4
-Object Tracking,10,5
-Action Recognition,8,6
-Optical Flow,8,7
-Classification,6,8
-Pose Estimation,6,9
-Depth Estimation,3,10
+Scene Understanding,11,1
+Action Recognition,7,2
+Optical Flow,7,3
+Pose Estimation,4,4
+Depth Estimation,1,5
