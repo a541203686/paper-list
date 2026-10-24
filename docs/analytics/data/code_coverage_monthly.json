@@ -191,7 +191,7 @@
   {
     "topic": "Action Recognition",
     "date": "2026-10",
-    "total": 7,
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -752,6 +752,13 @@
     "topic": "Classification",
     "date": "2026-04",
     "total": 68,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Classification",
+    "date": "2026-10",
+    "total": 3,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1330,6 +1337,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Image Generation",
+    "date": "2026-10",
+    "total": 7,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "LLM",
     "date": "2024-02",
     "total": 20,
@@ -1904,6 +1918,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Object Detection",
+    "date": "2026-10",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Object Tracking",
     "date": "2024-02",
     "total": 10,
@@ -2089,6 +2110,13 @@
     "topic": "Object Tracking",
     "date": "2026-04",
     "total": 72,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-10",
+    "total": 8,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2284,7 +2312,7 @@
   {
     "topic": "Optical Flow",
     "date": "2026-10",
-    "total": 7,
+    "total": 3,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2480,7 +2508,7 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-10",
-    "total": 4,
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2858,7 +2886,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-10",
-    "total": 11,
+    "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3034,6 +3062,13 @@
     "topic": "Semantic Segmentation",
     "date": "2026-04",
     "total": 99,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2026-10",
+    "total": 7,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3223,6 +3258,13 @@
     "topic": "Video Understanding",
     "date": "2026-04",
     "total": 118,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-10",
+    "total": 13,
     "code_covered": 0,
     "code_coverage": 0.0
   }
