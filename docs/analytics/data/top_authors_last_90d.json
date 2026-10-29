@@ -1,101 +1,101 @@
 [
   {
-    "author": "Haoyu Wang",
-    "count": 3,
-    "rank": 1
-  },
-  {
     "author": "Arnold Brosch",
     "count": 2,
-    "rank": 2
+    "rank": 1
   },
   {
     "author": "Tom Sanitz",
     "count": 2,
-    "rank": 3
+    "rank": 2
   },
   {
     "author": "Qianchao He",
     "count": 2,
-    "rank": 4
+    "rank": 3
   },
   {
     "author": "Manish Das",
     "count": 2,
-    "rank": 5
+    "rank": 4
   },
   {
     "author": "Le Yang",
     "count": 2,
-    "rank": 6
+    "rank": 5
   },
   {
     "author": "Yongqi Shan",
     "count": 2,
-    "rank": 7
+    "rank": 6
   },
   {
     "author": "Muxi Zha",
     "count": 2,
-    "rank": 8
-  },
-  {
-    "author": "Mayur Kulkarni",
-    "count": 2,
-    "rank": 9
+    "rank": 7
   },
   {
     "author": "Yang Liu",
     "count": 2,
-    "rank": 10
+    "rank": 8
   },
   {
     "author": "Taeyoung Kim",
     "count": 2,
-    "rank": 11
+    "rank": 9
   },
   {
-    "author": "X-Era AI Lab Team",
+    "author": "Da Li",
     "count": 2,
-    "rank": 12
-  },
-  {
-    "author": "Tze Ho Elden Tse",
-    "count": 2,
-    "rank": 13
-  },
-  {
-    "author": "Hongyi Liu",
-    "count": 2,
-    "rank": 14
+    "rank": 10
   },
   {
     "author": "Hanqing Wang",
     "count": 2,
+    "rank": 11
+  },
+  {
+    "author": "Akshay Krishnan",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "author": "Placido Mursia",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "author": "Chi Ruan",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "author": "Zhan Jin",
+    "count": 1,
     "rank": 15
   },
   {
-    "author": "Jingxue Huang",
-    "count": 2,
+    "author": "Baris Oguz",
+    "count": 1,
     "rank": 16
   },
   {
-    "author": "Sai Ganesh Nagarajan",
+    "author": "Christian Wilms",
     "count": 1,
     "rank": 17
   },
   {
-    "author": "Wei Zhang",
+    "author": "Chengxing Zhai",
     "count": 1,
     "rank": 18
   },
   {
-    "author": "Zimian Wei",
+    "author": "Yanbin Yang",
     "count": 1,
     "rank": 19
   },
   {
-    "author": "Rico Staedeli",
+    "author": "Emma Andrews",
     "count": 1,
     "rank": 20
   }

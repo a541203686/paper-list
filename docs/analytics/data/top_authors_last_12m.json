@@ -5,42 +5,42 @@
     "rank": 1
   },
   {
-    "author": "Haoyu Wang",
+    "author": "Hao Li",
     "count": 11,
     "rank": 2
   },
   {
-    "author": "Hao Li",
+    "author": "Saeid Jamshidi",
     "count": 11,
     "rank": 3
   },
   {
-    "author": "Saeid Jamshidi",
-    "count": 11,
-    "rank": 4
-  },
-  {
     "author": "Yida Lin",
     "count": 9,
-    "rank": 5
+    "rank": 4
   },
   {
     "author": "Yu Li",
     "count": 9,
-    "rank": 6
+    "rank": 5
   },
   {
     "author": "Hao Wang",
     "count": 9,
-    "rank": 7
+    "rank": 6
   },
   {
     "author": "Yu Wang",
     "count": 9,
-    "rank": 8
+    "rank": 7
   },
   {
     "author": "Yizhan Feng",
+    "count": 8,
+    "rank": 8
+  },
+  {
+    "author": "Haoyu Wang",
     "count": 8,
     "rank": 9
   },
