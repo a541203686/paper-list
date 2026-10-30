@@ -1,13 +1,12 @@
 topic,count,rank
-Video Understanding,18,1
-Image Generation,9,2
-Neural Rendering,9,3
-Object Detection,7,4
-Scene Understanding,6,5
-Semantic Segmentation,5,6
-Object Tracking,5,7
-Action Recognition,4,8
-Pose Estimation,4,9
-Depth Estimation,3,10
-Optical Flow,2,11
-Classification,1,12
+Image Generation,15,1
+Video Understanding,13,2
+Object Tracking,10,3
+Object Detection,5,4
+Scene Understanding,5,5
+Semantic Segmentation,4,6
+Pose Estimation,4,7
+Classification,2,8
+Action Recognition,2,9
+Depth Estimation,1,10
+Optical Flow,1,11

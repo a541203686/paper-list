@@ -16,7 +16,7 @@
   },
   {
     "topic": "Image Generation",
-    "count": 986,
+    "count": 992,
     "rank": 4
   },
   {
@@ -31,17 +31,17 @@
   },
   {
     "topic": "Object Detection",
-    "count": 437,
+    "count": 435,
     "rank": 7
   },
   {
     "topic": "Classification",
-    "count": 394,
+    "count": 395,
     "rank": 8
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 382,
+    "count": 381,
     "rank": 9
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "topic": "Scene Understanding",
-    "count": 192,
+    "count": 191,
     "rank": 12
   },
   {
@@ -66,22 +66,22 @@
   },
   {
     "topic": "Depth Estimation",
-    "count": 149,
+    "count": 147,
     "rank": 14
   },
   {
-    "topic": "Action Recognition",
+    "topic": "Object Tracking",
     "count": 138,
     "rank": 15
   },
   {
-    "topic": "Video Understanding",
+    "topic": "Action Recognition",
     "count": 136,
     "rank": 16
   },
   {
-    "topic": "Object Tracking",
-    "count": 133,
+    "topic": "Video Understanding",
+    "count": 131,
     "rank": 17
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "topic": "Optical Flow",
-    "count": 80,
+    "count": 79,
     "rank": 19
   },
   {
     "topic": "Neural Rendering",
-    "count": 78,
+    "count": 69,
     "rank": 20
   }
 ]
