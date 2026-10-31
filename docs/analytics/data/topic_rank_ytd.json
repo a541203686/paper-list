@@ -16,7 +16,7 @@
   },
   {
     "topic": "Image Generation",
-    "count": 992,
+    "count": 999,
     "rank": 4
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 381,
+    "count": 386,
     "rank": 9
   },
   {
@@ -66,22 +66,22 @@
   },
   {
     "topic": "Depth Estimation",
-    "count": 147,
+    "count": 146,
     "rank": 14
   },
   {
     "topic": "Object Tracking",
-    "count": 138,
+    "count": 137,
     "rank": 15
   },
   {
     "topic": "Action Recognition",
-    "count": 136,
+    "count": 134,
     "rank": 16
   },
   {
     "topic": "Video Understanding",
-    "count": 131,
+    "count": 133,
     "rank": 17
   },
   {
