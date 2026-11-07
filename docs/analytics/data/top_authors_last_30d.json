@@ -1,101 +1,101 @@
 [
   {
-    "author": "Ryan Wen Liu",
+    "author": "Enmin Lin",
     "count": 2,
     "rank": 1
   },
   {
-    "author": "Enmin Lin",
+    "author": "Junkai Niu",
     "count": 2,
     "rank": 2
   },
   {
-    "author": "Sicheng Yang",
+    "author": "Yanlin Jin",
     "count": 2,
     "rank": 3
   },
   {
-    "author": "Lukas Rauch",
+    "author": "Chuanxin Song",
     "count": 2,
     "rank": 4
   },
   {
-    "author": "Rohit Mohan",
+    "author": "S-Wei Chen",
     "count": 2,
     "rank": 5
   },
   {
-    "author": "Junkai Niu",
+    "author": "Laurenz Ruzicka",
     "count": 2,
     "rank": 6
   },
   {
-    "author": "Maxim Sirotin",
-    "count": 2,
-    "rank": 7
-  },
-  {
-    "author": "Wooil Lee",
-    "count": 2,
-    "rank": 8
-  },
-  {
     "author": "Jinen Setpal",
     "count": 1,
-    "rank": 9
-  },
-  {
-    "author": "Jie Fu",
-    "count": 1,
-    "rank": 10
+    "rank": 7
   },
   {
     "author": "Obed Honour Eje",
     "count": 1,
-    "rank": 11
+    "rank": 8
   },
   {
     "author": "Zehao Wang",
     "count": 1,
-    "rank": 12
+    "rank": 9
   },
   {
     "author": "Abdul Basit",
     "count": 1,
-    "rank": 13
+    "rank": 10
   },
   {
     "author": "Xinyu Zhang",
     "count": 1,
-    "rank": 14
-  },
-  {
-    "author": "Jiuwu Hao",
-    "count": 1,
-    "rank": 15
-  },
-  {
-    "author": "Shristy Shah",
-    "count": 1,
-    "rank": 16
-  },
-  {
-    "author": "Kiet Dang Vu",
-    "count": 1,
-    "rank": 17
-  },
-  {
-    "author": "Yasiru Ranasinghe",
-    "count": 1,
-    "rank": 18
+    "rank": 11
   },
   {
     "author": "Xiaoling Han",
     "count": 1,
+    "rank": 12
+  },
+  {
+    "author": "N. Otani",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "author": "Yingchao Huang",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "author": "Xiaoyang Lin",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "author": "Ziheng Ji",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "author": "Mohammed Hassan",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "author": "Fuhao Li",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "author": "Raúl Boix-Aldeguer",
+    "count": 1,
     "rank": 19
   },
   {
-    "author": "Bakpen Kombat",
+    "author": "Aditya Iyer",
     "count": 1,
     "rank": 20
   }

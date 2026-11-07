@@ -1,46 +1,46 @@
 [
   {
-    "topic": "Object Tracking",
-    "count": 18,
+    "topic": "Video Understanding",
+    "count": 17,
     "rank": 1
   },
   {
-    "topic": "Image Generation",
-    "count": 18,
+    "topic": "Pose Estimation",
+    "count": 6,
     "rank": 2
   },
   {
-    "topic": "Pose Estimation",
-    "count": 11,
+    "topic": "Object Tracking",
+    "count": 5,
     "rank": 3
   },
   {
-    "topic": "Object Detection",
-    "count": 9,
+    "topic": "Image Generation",
+    "count": 5,
     "rank": 4
   },
   {
-    "topic": "Semantic Segmentation",
-    "count": 9,
+    "topic": "Optical Flow",
+    "count": 5,
     "rank": 5
   },
   {
-    "topic": "Action Recognition",
-    "count": 7,
+    "topic": "Object Detection",
+    "count": 4,
     "rank": 6
   },
   {
     "topic": "Scene Understanding",
-    "count": 7,
+    "count": 4,
     "rank": 7
   },
   {
-    "topic": "Optical Flow",
-    "count": 7,
+    "topic": "Action Recognition",
+    "count": 3,
     "rank": 8
   },
   {
-    "topic": "Classification",
+    "topic": "Semantic Segmentation",
     "count": 2,
     "rank": 9
   },
@@ -48,5 +48,10 @@
     "topic": "Depth Estimation",
     "count": 2,
     "rank": 10
+  },
+  {
+    "topic": "Classification",
+    "count": 1,
+    "rank": 11
   }
 ]
