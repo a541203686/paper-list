@@ -1,82 +1,102 @@
 [
   {
-    "author": "Jeferson Severino de Araujo",
-    "count": 1,
+    "author": "Kenneth Yang",
+    "count": 3,
     "rank": 1
   },
   {
-    "author": "Dingning Luo",
-    "count": 1,
+    "author": "Xianping Ma",
+    "count": 2,
     "rank": 2
   },
   {
-    "author": "Saurabh Kumar",
-    "count": 1,
+    "author": "Yan Zhang",
+    "count": 2,
     "rank": 3
   },
   {
-    "author": "Peng Zheng",
-    "count": 1,
+    "author": "Niran Nataraj",
+    "count": 2,
     "rank": 4
   },
   {
-    "author": "Riya Bharathwaj",
-    "count": 1,
+    "author": "Yifan Luo",
+    "count": 2,
     "rank": 5
   },
   {
-    "author": "William T. Botticelli-Wells",
-    "count": 1,
+    "author": "Wanhui Luo",
+    "count": 2,
     "rank": 6
   },
   {
-    "author": "Hesham Shehata",
-    "count": 1,
+    "author": "Dehua Chen",
+    "count": 2,
     "rank": 7
   },
   {
-    "author": "Bhavan Vasu",
+    "author": "Sandarbh Agrawal",
     "count": 1,
     "rank": 8
   },
   {
-    "author": "Thinesh Thiyakesan Ponbagavathi",
+    "author": "Christos Kyrkou",
     "count": 1,
     "rank": 9
   },
   {
-    "author": "Christian Marowski",
+    "author": "Yuchi Ma",
     "count": 1,
     "rank": 10
   },
   {
-    "author": "Rui Guo",
+    "author": "Yuxuan Hu",
     "count": 1,
     "rank": 11
   },
   {
-    "author": "Seungki Hong",
+    "author": "Gökhan Özbulak",
     "count": 1,
     "rank": 12
   },
   {
-    "author": "Gengyuan Zhang",
+    "author": "Xindi Wang",
     "count": 1,
     "rank": 13
   },
   {
-    "author": "Chentao Cao",
+    "author": "Kilian Göller",
     "count": 1,
     "rank": 14
   },
   {
-    "author": "Jing Liang",
+    "author": "Shirley X. Yu",
     "count": 1,
     "rank": 15
   },
   {
-    "author": "Zedong Wang",
+    "author": "Othmane Harraq",
     "count": 1,
     "rank": 16
+  },
+  {
+    "author": "Yuan Fang",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "author": "Stefan Becker",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "author": "Juha Vierinen",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "author": "Haiyang Wu",
+    "count": 1,
+    "rank": 20
   }
 ]
