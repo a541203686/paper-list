@@ -1,10 +1,10 @@
 ## 语义分割 (Semantic Segmentation)
 
-总论文数: **2674**
+总论文数: **2669**
 
 ## 月度归档
 
-- [2026-11](Semantic_Segmentation/2026-11.md) (6 papers)
+- [2026-11](Semantic_Segmentation/2026-11.md) (1 papers)
 - [2026-04](Semantic_Segmentation/2026-04.md) (99 papers)
 - [2026-03](Semantic_Segmentation/2026-03.md) (112 papers)
 - [2026-02](Semantic_Segmentation/2026-02.md) (81 papers)
