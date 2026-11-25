@@ -1,10 +1,10 @@
 ## 深度估计 (Depth Estimation)
 
-总论文数: **1195**
+总论文数: **1198**
 
 ## 月度归档
 
-- [2026-11](Depth_Estimation/2026-11.md) (5 papers)
+- [2026-11](Depth_Estimation/2026-11.md) (8 papers)
 - [2026-04](Depth_Estimation/2026-04.md) (37 papers)
 - [2026-03](Depth_Estimation/2026-03.md) (53 papers)
 - [2026-02](Depth_Estimation/2026-02.md) (26 papers)

@@ -1,10 +1,10 @@
 ## 姿态估计 (Pose Estimation)
 
-总论文数: **1859**
+总论文数: **1861**
 
 ## 月度归档
 
-- [2026-11](Pose_Estimation/2026-11.md) (10 papers)
+- [2026-11](Pose_Estimation/2026-11.md) (12 papers)
 - [2026-04](Pose_Estimation/2026-04.md) (39 papers)
 - [2026-03](Pose_Estimation/2026-03.md) (83 papers)
 - [2026-02](Pose_Estimation/2026-02.md) (59 papers)
