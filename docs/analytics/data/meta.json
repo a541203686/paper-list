@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:23:59+00:00",
+  "generated_at": "2026-11-26T07:55:02+00:00",
   "topics": [
     "Action Recognition",
     "Anomaly Detection",
@@ -24,7 +24,7 @@
     "Video Understanding"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-11-24",
+  "max_date": "2026-11-25",
   "granularities": [
     "day",
     "month"
