@@ -2866,11 +2866,6 @@
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-11-24",
-    "count": 5
-  },
-  {
-    "topic": "Action Recognition",
     "date": "2026-11-25",
     "count": 7
   },
@@ -12571,11 +12566,6 @@
   },
   {
     "topic": "Classification",
-    "date": "2026-11-24",
-    "count": 4
-  },
-  {
-    "topic": "Classification",
     "date": "2026-11-25",
     "count": 2
   },
@@ -15453,11 +15443,6 @@
     "topic": "Depth Estimation",
     "date": "2026-04-30",
     "count": 1
-  },
-  {
-    "topic": "Depth Estimation",
-    "date": "2026-11-24",
-    "count": 6
   },
   {
     "topic": "Depth Estimation",
@@ -21148,11 +21133,6 @@
     "topic": "Image Generation",
     "date": "2026-04-30",
     "count": 3
-  },
-  {
-    "topic": "Image Generation",
-    "date": "2026-11-24",
-    "count": 27
   },
   {
     "topic": "Image Generation",
@@ -28916,11 +28896,6 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-11-24",
-    "count": 6
-  },
-  {
-    "topic": "Object Detection",
     "date": "2026-11-25",
     "count": 4
   },
@@ -31278,11 +31253,6 @@
     "topic": "Object Tracking",
     "date": "2026-04-30",
     "count": 5
-  },
-  {
-    "topic": "Object Tracking",
-    "date": "2026-11-24",
-    "count": 14
   },
   {
     "topic": "Object Tracking",
@@ -33668,11 +33638,6 @@
     "topic": "Optical Flow",
     "date": "2026-04-30",
     "count": 1
-  },
-  {
-    "topic": "Optical Flow",
-    "date": "2026-11-24",
-    "count": 4
   },
   {
     "topic": "Optical Flow",
@@ -37038,11 +37003,6 @@
     "topic": "Pose Estimation",
     "date": "2026-04-30",
     "count": 1
-  },
-  {
-    "topic": "Pose Estimation",
-    "date": "2026-11-24",
-    "count": 7
   },
   {
     "topic": "Pose Estimation",
@@ -42186,11 +42146,6 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-11-24",
-    "count": 10
-  },
-  {
-    "topic": "Scene Understanding",
     "date": "2026-11-25",
     "count": 4
   },
@@ -45393,11 +45348,6 @@
     "topic": "Semantic Segmentation",
     "date": "2026-04-30",
     "count": 5
-  },
-  {
-    "topic": "Semantic Segmentation",
-    "date": "2026-11-24",
-    "count": 9
   },
   {
     "topic": "Semantic Segmentation",

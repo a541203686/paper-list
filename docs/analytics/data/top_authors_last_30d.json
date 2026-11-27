@@ -1,101 +1,101 @@
 [
   {
-    "author": "Wei Huang",
+    "author": "Hanwen Liang",
     "count": 3,
     "rank": 1
   },
   {
-    "author": "Hanwen Liang",
+    "author": "Ying Jiang",
     "count": 3,
     "rank": 2
   },
   {
-    "author": "Ying Jiang",
-    "count": 3,
-    "rank": 3
-  },
-  {
-    "author": "Yuzhao Jiang",
-    "count": 2,
-    "rank": 4
-  },
-  {
     "author": "Xuweiyi Chen",
     "count": 2,
-    "rank": 5
-  },
-  {
-    "author": "Ruizhi Wang",
-    "count": 2,
-    "rank": 6
-  },
-  {
-    "author": "Hugo Hadfield",
-    "count": 2,
-    "rank": 7
-  },
-  {
-    "author": "Cezica-Elena Luncanu",
-    "count": 2,
-    "rank": 8
-  },
-  {
-    "author": "Sandeep Inuganti",
-    "count": 2,
-    "rank": 9
-  },
-  {
-    "author": "Adonay Demewez Gebremedhin",
-    "count": 2,
-    "rank": 10
+    "rank": 3
   },
   {
     "author": "Nabeel Nisar Bhat",
     "count": 2,
-    "rank": 11
-  },
-  {
-    "author": "Yun Chen",
-    "count": 2,
-    "rank": 12
-  },
-  {
-    "author": "Enqi Liu",
-    "count": 2,
-    "rank": 13
-  },
-  {
-    "author": "Zidian Qiu",
-    "count": 2,
-    "rank": 14
-  },
-  {
-    "author": "Weikuan Qiu",
-    "count": 2,
-    "rank": 15
-  },
-  {
-    "author": "Chun Xie",
-    "count": 2,
-    "rank": 16
+    "rank": 4
   },
   {
     "author": "Michalis Pagkalos",
     "count": 1,
-    "rank": 17
+    "rank": 5
   },
   {
     "author": "Florian A. Hölzl",
     "count": 1,
+    "rank": 6
+  },
+  {
+    "author": "Wenchao Li",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "author": "Chuanguang Yang",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "author": "Fangyu Sun",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "author": "Piyush Tiwary",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "author": "Wen Ying",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "author": "Prashant Saini",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "author": "Niccolò D'Archivio",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "author": "Changwoo Jeon",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "author": "Stefan Becker",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "author": "Xinyu Zhou",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "author": "Bohang Zou",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "author": "Xuewen Liu",
+    "count": 1,
     "rank": 18
   },
   {
-    "author": "Raphael Walcher",
+    "author": "Zezhi Liu",
     "count": 1,
     "rank": 19
   },
   {
-    "author": "Xinyu Wang",
+    "author": "Yun Chen",
     "count": 1,
     "rank": 20
   }
